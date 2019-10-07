@@ -1,10 +1,9 @@
-package it.nextre.academy.esercizi.testPing;
+package it.nextre.academy.myUtil;
 
 import java.io.IOException;
 import java.net.InetAddress;
 
-public class Pinger {
-
+public class PingTest {
     public static void sendPingRequest(String ipAddress) throws IOException {
         InetAddress address = InetAddress.getByName(ipAddress);
         System.out.println("Sending Ping Request to " + ipAddress);
@@ -18,4 +17,8 @@ public class Pinger {
             System.out.println("Sorry ! We can't reach to this host");
     }
 
+    public static boolean isReachable(String ipAddress) throws IOException {
+        InetAddress address = InetAddress.getByName(ipAddress);
+        return address.isReachable(1000);
+    }
 }//end class
