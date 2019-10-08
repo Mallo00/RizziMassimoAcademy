@@ -6,8 +6,13 @@ public class Umano {
     private String cognome;
     private double peso;
     private double altezza;
-    public Umano(){
 
+    public Umano() {
+
+    }
+
+    public Umano(String nome) {
+        this.nome = nome;
     }
 
     public Umano(int age, String nome, String cognome, double peso, double altezza) {
@@ -24,8 +29,8 @@ public class Umano {
                 "Nome=" + nome +
                 ", cognome='" + cognome + '\'' +
                 ", eta='" + age + " anni" + '\'' +
-                ", peso=" + peso +"kg"+
-                ", altezza=" + altezza +"cm"+
+                ", peso=" + peso + "kg" +
+                ", altezza=" + altezza + "cm" +
                 '}';
     }
 

@@ -1,4 +1,4 @@
-package it.nextre.academy.myUtil;
+package it.nextre.academy.esercizi.testimoniDiGeova.portScanner;
 
 import java.net.InetSocketAddress;
 import java.net.Socket;
