@@ -4,12 +4,12 @@ package it.nextre.academy.esercizi.cap5.es5_4_observable;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Estrattore implements Osservato {
+public class EstrattoreG implements Osservato {
     private List<Giocatori> giocatori;
     private List<Integer> estratti;
     private PallottoliereList p;
 
-    public Estrattore() {
+    public EstrattoreG() {
         giocatori = new ArrayList<>();
         estratti = new ArrayList<>();
         p=PallottoliereList.getInstance();

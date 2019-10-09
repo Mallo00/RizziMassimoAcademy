@@ -1,8 +1,6 @@
 package it.nextre.academy.esercizi.cap5.es5_4_observable;
 //vedi pag 103
 
-import it.nextre.academy.designpattern.singleton.Pallottoliere;
-import it.nextre.academy.myUtil.MyInput;
 import it.nextre.academy.myUtil.MyOutput;
 
 import java.util.ArrayList;
@@ -25,7 +23,7 @@ public class Es5_4_observable {
         /**
          * incarico l'estrattore di estrarre i numeri dal pallottoliere
          */
-        Estrattore e = new Estrattore();
+        EstrattoreG e = new EstrattoreG();
         /**
          * metto i numeri nel pallottoliere
           */
@@ -41,7 +39,7 @@ public class Es5_4_observable {
 
     }
 
-    private static void gioco(Estrattore e, PallottoliereList p) {
+    private static void gioco(EstrattoreG e, PallottoliereList p) {
         ArrayList<Giocatori> winners = new ArrayList<>();
         Gioco: while (p.getDb().getLista().size() > 0) {
             //System.out.println("Giochiamo?");
@@ -74,7 +72,7 @@ public class Es5_4_observable {
 
     }//fine gioco
 
-    private static void iscrizione(Giocatori[] g, Estrattore e) {
+    private static void iscrizione(Giocatori[] g, EstrattoreG e) {
         for (int i = 0; i < g.length; i++) {
             if (r.nextInt(100) < 70) {
                 System.out.println(g[i].getNome() + ": io gioco!");

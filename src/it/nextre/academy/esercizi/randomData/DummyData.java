@@ -87,4 +87,8 @@ public class DummyData {
         return tmp.toLowerCase();
     }
 
+    public static double getRandomDouble(double min, double max){
+        return r.nextDouble();
+    }
+
 }//end class
