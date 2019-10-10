@@ -1,4 +1,4 @@
-package it.nextre.academy.esercizi.bingobango.ereditarieta;
+package it.nextre.academy.esercizi.ereditarieta.ereditarieta;
 
 public abstract class Nonno {
     protected String nome;

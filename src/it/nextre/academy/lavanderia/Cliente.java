@@ -18,6 +18,14 @@ public class Cliente {
                 '}';
     }
 
+    public String getCognome() {
+        return cognome;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
     Cliente(String nome, String cognome) {
         this.nome = nome;
         this.cognome = cognome;
@@ -36,7 +44,7 @@ public class Cliente {
 
     public List<Capo> getCapiLavatiPerPrezzo() {
         List<Capo> puliti = cesta.stream()
-                .filter(Capo::isPulito)
+                .filter(Capo::isPulito)//referenza a un metodo d'istanza di un certo tipo
                 .collect(Collectors.toList());
         puliti.sort(new Comparator<Capo>() {
             @Override
@@ -52,4 +60,5 @@ public class Cliente {
         });
         return puliti;
     }
+
 }//end class

@@ -1,4 +1,4 @@
-package it.nextre.academy.esercizi.bingobango.ereditarieta;
+package it.nextre.academy.esercizi.ereditarieta.ereditarieta;
 
 public class Padre extends Nonno implements Lavoratore {
     protected String lavoro;

@@ -19,21 +19,21 @@ public class DummyData {
             "Ashanti", "Nicki", "Malorie", "Carlene"};
     private static final String[] surnames = new String[]{"Rizzi", "Antonuzzi", "Scarnati", "Frontini", "Marmonti", "Scotti", "Campioli", "Gavioli",
             "Ravioli", "Nitu"};
-    private static final String[] cities = {"Stonebutter","Mount Prospect","Independent Hill","Cape Town","Moreno Valley","Temecula","Sydney","Amarillo",
-            "Lafayette","Beijing","Murfreesboro","Carrollton","Wilmington","Basseterre","Thousand Oaks","Moscow","Dorchester","Biloxi","East Orange",
-            "Peterson Afb","Flower Mound","Lawrence","Salt Lake City","Vientiane","Verdi","Santa Rosa","Canton","Belmopan","Mobile","Nashville","Vienna",
-            "Elwin","Swan Island","Silver Spring","Evansville","Monterey Park","Black Mtn","Metairie","London","Pocatello","Oakland","Nouakchott",
-            "Maclay State Gardens","Farmington","Taylorsville","Langley View","Pomona","East Albany","Pisgah Church","Burnsville","Rapid City","Arden-arcade",
-            "Oslo","Guaynabo","Bogot","North Virginia Beach","Aguilares","Tarawa","Phoebus","Newbury","Lynnhaven","Hyde Park","Turner City","Ankara",
-            "Victoria","Redwood City","Orange","Jacksonville","South Bend","Lake Forest","Mexico City","Bridgeport","Monrovia","Easton","Gulfport",
-            "Boca Raton","Ridgewood","Concord","Oceanway","Douglas Park","Towson","Osgood","Portland","Lynwood","Lancaster","Oshkosh","Wellington","Hayward",
-            "Barcroft","Lauderhill","Pine Bluff","Stepanakert","Elyria","Berwyn","Rancho Cucamonga","Waialae","San Mateo","Kingstown","Winterhaven",
-            "Missouri City","Santa Barbara","Lincoln","Johnson City","Johnson Bayou","Lake Ashby","Port of Spain","Alexandria","Freetown","Avarua",
-            "Johns Island","Howard Beach","Kabul","Oceana","Brazzaville","Delray Beach","Battery Point","Meriden","Clifton","Harlem","Columbia","Montgomery"
-            ,"Nicosia","Willoughby Spit","Park Heights","Simpson","Chula Vista","Ventura","Carlsbad","Santa Clarita","Asheville","Chino Hills","La Crosse",
-            "Kahala","Todt Hill","Natomas","West Palm Beach","Pasadena","Seekonk","San Jos","Grubbs","Annandale","Lamarville","Stella","Euclid","Crichton",
-            "Toledo","Long Beach","Horseshoe","Haverhill","Hilton Village","West Haven","Dakar","Brownsville","Fort Collins","Layton","South Santa Rosa",
-            "Tustin","Hammond","San Angelo","Georgetown","Igo","Aurora","San Jose","Glendale","Doney Park","Southfield","Plymouth","Pawtucket"};
+    private static final String[] cities = {"Stonebutter", "Mount Prospect", "Independent Hill", "Cape Town", "Moreno Valley", "Temecula", "Sydney", "Amarillo",
+            "Lafayette", "Beijing", "Murfreesboro", "Carrollton", "Wilmington", "Basseterre", "Thousand Oaks", "Moscow", "Dorchester", "Biloxi", "East Orange",
+            "Peterson Afb", "Flower Mound", "Lawrence", "Salt Lake City", "Vientiane", "Verdi", "Santa Rosa", "Canton", "Belmopan", "Mobile", "Nashville", "Vienna",
+            "Elwin", "Swan Island", "Silver Spring", "Evansville", "Monterey Park", "Black Mtn", "Metairie", "London", "Pocatello", "Oakland", "Nouakchott",
+            "Maclay State Gardens", "Farmington", "Taylorsville", "Langley View", "Pomona", "East Albany", "Pisgah Church", "Burnsville", "Rapid City", "Arden-arcade",
+            "Oslo", "Guaynabo", "Bogot", "North Virginia Beach", "Aguilares", "Tarawa", "Phoebus", "Newbury", "Lynnhaven", "Hyde Park", "Turner City", "Ankara",
+            "Victoria", "Redwood City", "Orange", "Jacksonville", "South Bend", "Lake Forest", "Mexico City", "Bridgeport", "Monrovia", "Easton", "Gulfport",
+            "Boca Raton", "Ridgewood", "Concord", "Oceanway", "Douglas Park", "Towson", "Osgood", "Portland", "Lynwood", "Lancaster", "Oshkosh", "Wellington", "Hayward",
+            "Barcroft", "Lauderhill", "Pine Bluff", "Stepanakert", "Elyria", "Berwyn", "Rancho Cucamonga", "Waialae", "San Mateo", "Kingstown", "Winterhaven",
+            "Missouri City", "Santa Barbara", "Lincoln", "Johnson City", "Johnson Bayou", "Lake Ashby", "Port of Spain", "Alexandria", "Freetown", "Avarua",
+            "Johns Island", "Howard Beach", "Kabul", "Oceana", "Brazzaville", "Delray Beach", "Battery Point", "Meriden", "Clifton", "Harlem", "Columbia", "Montgomery"
+            , "Nicosia", "Willoughby Spit", "Park Heights", "Simpson", "Chula Vista", "Ventura", "Carlsbad", "Santa Clarita", "Asheville", "Chino Hills", "La Crosse",
+            "Kahala", "Todt Hill", "Natomas", "West Palm Beach", "Pasadena", "Seekonk", "San Jos", "Grubbs", "Annandale", "Lamarville", "Stella", "Euclid", "Crichton",
+            "Toledo", "Long Beach", "Horseshoe", "Haverhill", "Hilton Village", "West Haven", "Dakar", "Brownsville", "Fort Collins", "Layton", "South Santa Rosa",
+            "Tustin", "Hammond", "San Angelo", "Georgetown", "Igo", "Aurora", "San Jose", "Glendale", "Doney Park", "Southfield", "Plymouth", "Pawtucket"};
     private static final String[] prefissi = new String[]{"02", "33", "34"};
 
     public static String getNome() {
@@ -47,6 +47,7 @@ public class DummyData {
     public static String getCitta() {
         return cities[r.nextInt(cities.length)];
     }
+
     public static String getDominio() {
         return websites[r.nextInt(websites.length)];
     }
@@ -77,18 +78,20 @@ public class DummyData {
     public static final String getEmail() {
         String tmp = "";
         String join = "._-";
-        tmp+=getNome()+join.charAt(r.nextInt(join.length()))+getCognome()+"@"+getDominio();
-        return tmp.toLowerCase();
-    }
-    public static final String getEmail(String nome, String cognome) {
-        String tmp = "";
-        String join = "._-";
-        tmp+=nome+join.charAt(r.nextInt(join.length()))+cognome+"@"+getDominio();
+        tmp += getNome() + join.charAt(r.nextInt(join.length())) + getCognome() + "@" + getDominio();
         return tmp.toLowerCase();
     }
 
-    public static double getRandomDouble(double min, double max){
-        return r.nextDouble();
+    public static final String getEmail(String nome, String cognome) {
+        String tmp = "";
+        String join = "._-";
+        tmp += nome + join.charAt(r.nextInt(join.length())) + cognome + "@" + getDominio();
+        return tmp.toLowerCase();
+    }
+
+    public static double getRandomDouble(double min, double max) {
+        return min + (max - min) * r.nextDouble();
+
     }
 
 }//end class

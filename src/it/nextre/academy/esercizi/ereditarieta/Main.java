@@ -1,9 +1,9 @@
-package it.nextre.academy.esercizi.bingobango;
+package it.nextre.academy.esercizi.ereditarieta;
 
-import it.nextre.academy.esercizi.bingobango.ereditarieta.Figlio;
-import it.nextre.academy.esercizi.bingobango.ereditarieta.Lavoratore;
-import it.nextre.academy.esercizi.bingobango.ereditarieta.Nonno;
-import it.nextre.academy.esercizi.bingobango.ereditarieta.Padre;
+import it.nextre.academy.esercizi.ereditarieta.ereditarieta.Figlio;
+import it.nextre.academy.esercizi.ereditarieta.ereditarieta.Lavoratore;
+import it.nextre.academy.esercizi.ereditarieta.ereditarieta.Nonno;
+import it.nextre.academy.esercizi.ereditarieta.ereditarieta.Padre;
 
 import java.util.ArrayList;
 import java.util.List;

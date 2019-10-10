@@ -1,6 +1,7 @@
 package it.nextre.academy.lavanderia;
 
 import it.nextre.academy.esercizi.cap5.es5_4_observable.EstrattoreG;
+import it.nextre.academy.myUtil.MyOutput;
 
 import java.time.LocalDateTime;
 import java.util.Random;
@@ -21,14 +22,14 @@ public class Capo {
     private LocalDateTime dataLavaggio;
 
     public Capo(Materiale materiale, Categoria categoria, Colore colore) {
-        this.cartellino=nextCartellino();
+        this.cartellino = nextCartellino();
         this.materiale = materiale;
         this.categoria = categoria;
         this.colore = colore;
     }
 
     public Capo() {
-        //se richiamo un capo vuoro, ne creo uno completamente randomico
+        //se richiamo un capo vuoto, ne creo uno completamente randomico
         this(getMaterialeRandom(), getCategoriaRandom(), getColoreRandom());
     }
 
@@ -39,7 +40,7 @@ public class Capo {
                 ", materiale=" + materiale +
                 ", categoria=" + categoria +
                 ", colore=" + colore +
-                ", prezzo=" + prezzo +
+                ", prezzo=" + MyOutput.formattaDouble(prezzo) +
                 ", pulito=" + pulito +
                 ", dataLavaggio=" + dataLavaggio +
                 '}';
