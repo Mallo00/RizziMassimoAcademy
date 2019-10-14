@@ -98,7 +98,7 @@ public class MainStream {
                 .limit(1)
                 .forEach(System.out::println);
 
-        List<Integer> temperature=getRanomList(2, 40, 10);
+        List<Integer> temperature= getRandomList(2, 40, 10);
         temperature.forEach(System.out::println);
         double avg=temperature.stream()
                 .mapToInt(t->t)//prendi quello che entra e ritorna un'intero. è una funzione lambda
@@ -142,7 +142,7 @@ public class MainStream {
     }
 
 
-    public static List getRanomList(int form, int to, int qta){
+    public static List getRandomList(int form, int to, int qta){
         return getRandomIntStream(form,to).
                 limit(qta).
                 boxed().//funzione flat, prende l'elemento fa il boxing, converte da oggetto stream a stream di oggetti
