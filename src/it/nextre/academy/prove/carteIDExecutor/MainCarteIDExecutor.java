@@ -6,11 +6,10 @@
 package it.nextre.academy.prove.carteIDExecutor;
 
 
-import it.nextre.academy.esercizi.randomData.DummyData;
+import it.nextre.academy.myUtil.DummyData;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Set;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 

@@ -1,6 +1,6 @@
 package it.nextre.academy.esercizi.cap5.Es5_6;
 
-import it.nextre.academy.esercizi.randomData.DummyData;
+import it.nextre.academy.myUtil.DummyData;
 
 //Es 5.6
 //Realizzare una serie di classi che permettano, grazie alla visibilità, di limitare l’accesso ai propri membri.

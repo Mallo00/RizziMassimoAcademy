@@ -1,8 +1,7 @@
 package it.nextre.academy.lavanderia;
 
-import it.nextre.academy.esercizi.randomData.DummyData;
+import it.nextre.academy.myUtil.DummyData;
 import it.nextre.academy.myUtil.MyFormatter;
-import it.nextre.academy.myUtil.MyOutput;
 
 import java.util.List;
 import java.util.function.Function;

@@ -1,7 +1,7 @@
 package it.nextre.academy.basi.generici;
 
 import it.nextre.academy.esercizi.cap5.Auto;
-import it.nextre.academy.esercizi.randomData.DummyData;
+import it.nextre.academy.myUtil.DummyData;
 import it.nextre.academy.myUtil.GenericList;
 
 import java.util.Random;

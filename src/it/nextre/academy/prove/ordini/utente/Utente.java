@@ -1,20 +1,15 @@
 package it.nextre.academy.prove.ordini.utente;
 
 
-import it.nextre.academy.esercizi.randomData.DummyData;
 import it.nextre.academy.myUtil.Alphabet;
 import it.nextre.academy.myUtil.MyFormatter;
 import it.nextre.academy.myUtil.MyInput;
-import it.nextre.academy.myUtil.MyOutput;
 import it.nextre.academy.prove.ordini.AziendaSpedizioni;
 import it.nextre.academy.prove.ordini.Prodotto;
-import it.nextre.academy.verifiche.correzione06_10.esCarteCredito.CarteCredito;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
 
 

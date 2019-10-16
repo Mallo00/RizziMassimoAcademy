@@ -1,6 +1,6 @@
 package it.nextre.academy.esercizi.cap8;
 
-import it.nextre.academy.esercizi.randomData.DummyData;
+import it.nextre.academy.myUtil.DummyData;
 import it.nextre.academy.myUtil.MyInput;
 
 public class Es8_5 {

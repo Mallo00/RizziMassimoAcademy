@@ -45,18 +45,21 @@ public class Corsa implements Comparator<Auto> {
             //ordino la classifica sulla base del tempo
             ordinaClassifica();
             //ad ogni giro stampo la posizione aggiornata
-            System.out.println("Posizioni: ");
-            for (int k = 0; k < partecipanti.size(); k++) {
-                System.out.println((k + 1) + ") " + partecipanti.get(k).getNome() + ", tempo: " + MyFormatter.durationFormatter(Duration.of(partecipanti.get(k).tempoTotaleMillis(), ChronoUnit.MILLIS)));
-            }
+            stampaCLassifica();
         }
-        //stampo il primo
-        annunciaVincitore();
     }
 
-    private void annunciaVincitore() {
+    public void annunciaVincitore() {
         System.out.println("Il vincitore è...");
         System.out.println(partecipanti.get(0).getNome());
+        stampaCLassifica();
+    }
+
+    public void stampaCLassifica() {
+        System.out.println("Posizioni: ");
+        for (int k = 0; k < partecipanti.size(); k++) {
+            System.out.println((k + 1) + ") " + partecipanti.get(k).getNome() + ", tempo: " + MyFormatter.durationFormatter(Duration.of(partecipanti.get(k).tempoTotaleMillis(), ChronoUnit.MILLIS)));
+        }
     }
 
 

@@ -1,6 +1,6 @@
 package it.nextre.academy.lavanderia;
 
-import it.nextre.academy.esercizi.randomData.DummyData;
+import it.nextre.academy.myUtil.DummyData;
 
 import java.time.LocalDateTime;
 import java.util.List;

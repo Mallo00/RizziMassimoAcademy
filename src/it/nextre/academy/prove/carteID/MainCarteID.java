@@ -6,7 +6,7 @@
 package it.nextre.academy.prove.carteID;
 
 
-import it.nextre.academy.esercizi.randomData.DummyData;
+import it.nextre.academy.myUtil.DummyData;
 
 public class MainCarteID {
     public static void main(String args[]) {

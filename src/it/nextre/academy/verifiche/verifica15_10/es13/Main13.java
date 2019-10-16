@@ -16,7 +16,7 @@ public class Main13 {
         }
         //inizia la gara
         c.corsa();
-
-
+        //annuncio il vincitore
+        c.annunciaVincitore();
     }
 }//end class

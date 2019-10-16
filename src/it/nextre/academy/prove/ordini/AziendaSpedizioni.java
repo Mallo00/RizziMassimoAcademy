@@ -1,8 +1,6 @@
 package it.nextre.academy.prove.ordini;
 
-import it.nextre.academy.esercizi.randomData.DummyData;
-import it.nextre.academy.myUtil.MyInput;
-import it.nextre.academy.myUtil.MyOutput;
+import it.nextre.academy.myUtil.DummyData;
 import it.nextre.academy.prove.ordini.utente.Utente;
 
 import java.util.ArrayList;
@@ -43,7 +41,7 @@ public class AziendaSpedizioni {
 
     public void creaProdotti(int nProdotti) {
         while (catalogo.size() < nProdotti) {
-            catalogo.add(new Prodotto(DummyData.getCosaACaso(), DummyData.getRandomDouble(5, 100)));
+            catalogo.add(new Prodotto("", DummyData.getRandomDouble(5, 100)));
         }
     }
 

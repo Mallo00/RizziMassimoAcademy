@@ -1,6 +1,6 @@
 package it.nextre.academy.basi.stream;
 
-import it.nextre.academy.esercizi.randomData.DummyData;
+import it.nextre.academy.myUtil.DummyData;
 
 import java.util.ArrayList;
 import java.util.List;
