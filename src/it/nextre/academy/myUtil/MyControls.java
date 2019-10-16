@@ -1,8 +1,6 @@
 package it.nextre.academy.myUtil;
 
-import it.nextre.academy.myUtil.MyOutput;
-
-public class StringaPalindroma {
+public class MyControls {
     public static boolean stringaPalindroma(String s) {
         s = s.replaceAll(" ", "");
         int i = 0;
@@ -13,5 +11,4 @@ public class StringaPalindroma {
         }
         return true;
     }
-
 }//end class

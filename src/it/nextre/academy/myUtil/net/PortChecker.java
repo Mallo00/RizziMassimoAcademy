@@ -1,4 +1,4 @@
-package it.nextre.academy.myUtil;
+package it.nextre.academy.myUtil.net;
 
 
 import java.io.IOException;

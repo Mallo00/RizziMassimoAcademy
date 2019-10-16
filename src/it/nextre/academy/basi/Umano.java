@@ -2,6 +2,7 @@ package it.nextre.academy.basi;
 
 
 import it.nextre.academy.myUtil.DummyData;
+import it.nextre.academy.myUtil.MyFormatter;
 import it.nextre.academy.myUtil.MyLoadings;
 import it.nextre.academy.myUtil.MyOutput;
 
@@ -68,8 +69,8 @@ public class Umano implements Comparable<Umano>, Comparator<Umano> {
                 "nome='" + nome + '\'' +
                 ", cognome='" + cognome + '\'' +
                 ", eta=" + eta +
-                ", peso=" + MyOutput.formattaDouble(peso) + "kg" +
-                ", altezza=" + MyOutput.formattaDouble(altezza) + "cm" +
+                ", peso=" + MyFormatter.formattaDouble(peso) + "kg" +
+                ", altezza=" + MyFormatter.formattaDouble(altezza) + "cm" +
                 '}';
     }
 

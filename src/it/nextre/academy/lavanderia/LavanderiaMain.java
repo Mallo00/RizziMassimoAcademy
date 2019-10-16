@@ -1,6 +1,7 @@
 package it.nextre.academy.lavanderia;
 
 import it.nextre.academy.esercizi.randomData.DummyData;
+import it.nextre.academy.myUtil.MyFormatter;
 import it.nextre.academy.myUtil.MyOutput;
 
 import java.util.List;
@@ -37,7 +38,7 @@ public class LavanderiaMain {
         c1.getCapiLavatiPerPrezzo().forEach(System.out::println);
 
         System.out.println("La somma dei prezzi dei lavaggi dei capi di " + c1.getNome() + " " + c1.getCognome() + " è: "
-                + MyOutput.formattaDouble(lavello.getSommaPrezzi(c1)));
+                + MyFormatter.formattaDouble(lavello.getSommaPrezzi(c1)));
 
 
         List<String> catPuliti = c1.getCapiLavatiPerPrezzo()

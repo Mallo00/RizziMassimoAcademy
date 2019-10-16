@@ -1,4 +1,4 @@
-package it.nextre.academy.myUtil;
+package it.nextre.academy.myUtil.liste;
 
 import java.util.Random;
 import java.util.Scanner;

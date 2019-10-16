@@ -3,6 +3,7 @@ package it.nextre.academy.prove.ordini.utente;
 
 import it.nextre.academy.esercizi.randomData.DummyData;
 import it.nextre.academy.myUtil.Alphabet;
+import it.nextre.academy.myUtil.MyFormatter;
 import it.nextre.academy.myUtil.MyInput;
 import it.nextre.academy.myUtil.MyOutput;
 import it.nextre.academy.prove.ordini.AziendaSpedizioni;
@@ -212,7 +213,7 @@ public class Utente {
     }
 
     private boolean pagamento(double tot) {
-        System.out.println("Costo totale: " + MyOutput.formattaDouble(tot));
+        System.out.println("Costo totale: " + MyFormatter.formattaDouble(tot));
         if (portafoglio.isEmpty()) {
             System.out.println("Inserire metodo di pagamento");
             addPaymentMethod();
@@ -320,7 +321,7 @@ public class Utente {
         public String toString() {
             return "CartaCredito{" +
                     "numCarta='" + numCarta + '\'' +
-                    ", credito=" + MyOutput.formattaDouble(credito) +
+                    ", credito=" + MyFormatter.formattaDouble(credito) +
                     '}';
         }
 

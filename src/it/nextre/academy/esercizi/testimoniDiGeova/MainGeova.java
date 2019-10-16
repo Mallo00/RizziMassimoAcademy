@@ -1,7 +1,7 @@
 package it.nextre.academy.esercizi.testimoniDiGeova;
 
-import it.nextre.academy.myUtil.PingTest;
-import it.nextre.academy.myUtil.PortChecker;
+import it.nextre.academy.myUtil.net.PingTest;
+import it.nextre.academy.myUtil.net.PortChecker;
 
 import java.io.IOException;
 import java.net.Socket;

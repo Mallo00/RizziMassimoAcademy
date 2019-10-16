@@ -1,9 +1,6 @@
 package it.nextre.academy.esercizi.testPing;
 
-import it.nextre.academy.esercizi.cap5.es5_4_observable.Giocatore;
-import it.nextre.academy.esercizi.cap5.es5_4_observable.Giocatori;
-import it.nextre.academy.esercizi.cap5.es5_5.Player;
-import it.nextre.academy.myUtil.PortChecker;
+import it.nextre.academy.myUtil.net.PortChecker;
 
 import java.io.IOException;
 import java.net.Socket;

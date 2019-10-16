@@ -1,5 +1,6 @@
 package it.nextre.academy.esercizi.cap4.Es4_2;
 
+import it.nextre.academy.myUtil.MyFormatter;
 import it.nextre.academy.myUtil.MyLoadings;
 import it.nextre.academy.myUtil.MyOutput;
 
@@ -76,11 +77,11 @@ public class Es4_2 {
         double[] vetTemp = new double[5];
         vetTemp = MyLoadings.caritcaVetNumeriCasualiDouble(vetTemp, (double) 0, (double) (46));
         for (int i = 0; i < vetTemp.length; i++) {
-            System.out.print("[" + MyOutput.formattaDouble(vetTemp[i]) + "]");
+            System.out.print("[" + MyFormatter.formattaDouble(vetTemp[i]) + "]");
         }
         System.out.println("");
         System.out.println("Media delle temperature: ");
-        System.out.print(MyOutput.formattaDouble(MyOutput.calcolaMediaVett(vetTemp)));
+        System.out.print(MyFormatter.formattaDouble(MyOutput.calcolaMediaVett(vetTemp)));
     }
 
     private static void punto3(String[] vetNomi) {
@@ -106,11 +107,11 @@ public class Es4_2 {
     private static void punto1(String[] vetNomi, int[] vetNum, int[] fibonacci) {
         //punto 1, vettori al contrario
         System.out.println("Stampa al contrario del vettore di nomi");
-        MyOutput.stampaVettoreString(MyOutput.invertiVettoreString(vetNomi));
+        MyOutput.stampaVettoreString(MyLoadings.invertiVettoreString(vetNomi));
         System.out.println("Stampa al contrario del vettore di numeri casuali");
-        MyOutput.stampaVettoreInt(MyOutput.invertiVettoreInt(vetNum));
+        MyOutput.stampaVettoreInt(MyLoadings.invertiVettoreInt(vetNum));
         System.out.println("Stampa al contrario del vettore di fibonacci");
-        MyOutput.stampaVettoreInt(MyOutput.invertiVettoreInt(fibonacci));
+        MyOutput.stampaVettoreInt(MyLoadings.invertiVettoreInt(fibonacci));
     }
 
 

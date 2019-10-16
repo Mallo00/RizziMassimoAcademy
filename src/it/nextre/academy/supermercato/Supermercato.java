@@ -1,5 +1,6 @@
 package it.nextre.academy.supermercato;
 
+import it.nextre.academy.myUtil.MyFormatter;
 import it.nextre.academy.myUtil.MyOutput;
 
 import java.util.Random;
@@ -25,6 +26,6 @@ public class Supermercato {
         }
         Cassa cassa1=new Cassa();
         cassa1.addProdotti(carrello);
-        System.out.println("Pagare: "+ MyOutput.formattaDouble(cassa1.getTot()));
+        System.out.println("Pagare: "+ MyFormatter.formattaDouble(cassa1.getTot()));
     }
 }//end class

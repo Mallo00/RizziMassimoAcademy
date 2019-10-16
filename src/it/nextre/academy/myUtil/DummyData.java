@@ -91,11 +91,11 @@ public class DummyData {
     }
 
     public static double getAltezza(int min, int max){
-        return Double.parseDouble(MyOutput.formattaDouble(getRandomInt( min,  max)));
+        return Double.parseDouble(MyFormatter.formattaDouble(getRandomInt( min,  max)));
     }
 
     public static double getPeso(int min, int max){
-        return Double.parseDouble(MyOutput.formattaDouble(getRandomInt( min,  max)));
+        return Double.parseDouble(MyFormatter.formattaDouble(getRandomInt( min,  max)));
     }
 
     public static int getRandomInt(int min, int max){
@@ -104,6 +104,25 @@ public class DummyData {
 
     public static double getRandomDouble(double min, double max){
         return r.nextDouble()*(max-min)+min;
+    }
+
+    public static int generaRisultatoRandomico(int PERC_SUCC) {
+        Random r=new Random();
+        return r.nextInt(100)<PERC_SUCC?1:0;
+    }
+
+    public static double getRandomTemp(double tempBase, double delta) {
+        double temp = 0, base = tempBase, maxscarto = delta, scarto;
+        Random r = new Random();
+        scarto = r.nextDouble() * maxscarto;
+        if (r.nextBoolean()) {
+            //true, aggiungo
+            temp = base + scarto;
+        } else {
+            //sottraggo
+            temp = base - scarto;
+        }
+        return temp;
     }
 
 }//end class

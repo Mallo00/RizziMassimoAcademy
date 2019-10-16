@@ -1,7 +1,6 @@
 package it.nextre.academy.myUtil;
 
-import it.nextre.academy.esercizi.randomData.DummyData;
-import it.nextre.academy.myUtil.Printable;
+import it.nextre.academy.myUtil.myInterfaces.Printable;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -19,7 +18,7 @@ public class GenericList<T> implements Printable {
         try {
             return lista.remove(r.nextInt(lista.size()));
         } catch (IllegalArgumentException e) {
-            System.out.println(ANSI_GREEN_BACKGROUND+"La lista è vuota"+ANSI_GREEN_BACKGROUND);
+            System.out.println(ANSI_GREEN_BACKGROUND + "La lista è vuota" + ANSI_GREEN_BACKGROUND);
             return null;
         }
         //return null;//posso lanciare un'eccezione
@@ -42,7 +41,6 @@ public class GenericList<T> implements Printable {
             return false;
         }
     }
-
 
 
     public boolean addDoppione(T o) {
@@ -75,9 +73,9 @@ public class GenericList<T> implements Printable {
 
     @Override
     public String toString() {
-        return ANSI_CYAN_BACKGROUND+"GenericList{" +
+        return ANSI_CYAN_BACKGROUND + "GenericList{" +
                 "lista=" + lista +
-                '}'+ANSI_CYAN_BACKGROUND;
+                '}' + ANSI_CYAN_BACKGROUND;
     }
 
     public List<T> getLista() {

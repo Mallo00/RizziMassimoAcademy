@@ -1,6 +1,6 @@
 package it.nextre.academy.supermercato;
 
-import it.nextre.academy.myUtil.ListaS;
+import it.nextre.academy.myUtil.liste.ListaS;
 
 import java.util.Random;
 

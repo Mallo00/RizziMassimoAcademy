@@ -1,4 +1,4 @@
-package it.nextre.academy.myUtil;
+package it.nextre.academy.myUtil.dummyObj;
 
 public class Umano {
     private int age;
@@ -21,6 +21,23 @@ public class Umano {
         this.cognome = cognome;
         this.peso = peso;
         this.altezza = altezza;
+    }
+
+    public Umano(String nome, String cognome, double altezza) {
+        this.nome = nome;
+        this.cognome = cognome;
+        this.altezza = altezza;
+    }
+
+    public Umano(int age, String nome, String cognome) {
+        this.age = age;
+        this.nome = nome;
+        this.cognome = cognome;
+    }
+
+    public Umano(String nome, String cognome) {
+        this.nome = nome;
+        this.cognome = cognome;
     }
 
     @Override

@@ -1,5 +1,6 @@
 package it.nextre.academy.esercizi.cap4.Es4_4;
 
+import it.nextre.academy.myUtil.DummyData;
 import it.nextre.academy.myUtil.MyOutput;
 
 import java.util.Arrays;
@@ -61,7 +62,7 @@ public class Es4_4 {
             int checks = 0;
             int giocate[] = new int[0];
             do {
-                int risultato = MyOutput.generaRisultatoRandomico(PERC_SUCC);
+                int risultato = DummyData.generaRisultatoRandomico(PERC_SUCC);
                 if (risultato == 1) {
                     //vince
                     checks++;

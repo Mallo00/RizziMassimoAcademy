@@ -1,6 +1,6 @@
 package it.nextre.academy.designpattern.singleton;
 
-import it.nextre.academy.myUtil.ListaI;
+import it.nextre.academy.myUtil.liste.ListaI;
 import java.util.Random;
 
 public class Pallottoliere {

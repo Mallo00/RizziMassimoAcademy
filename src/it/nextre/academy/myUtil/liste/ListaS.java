@@ -1,4 +1,4 @@
-package it.nextre.academy.myUtil;
+package it.nextre.academy.myUtil.liste;
 
 public class ListaS {
     private String[] mem;

@@ -1,5 +1,6 @@
 package it.nextre.academy.prove.ordini;
 
+import it.nextre.academy.myUtil.MyFormatter;
 import it.nextre.academy.myUtil.MyOutput;
 
 public class Prodotto {
@@ -15,7 +16,7 @@ public class Prodotto {
     public String toString() {
         return "Prodotto{" +
                 "nomeP='" + nomeP + '\'' +
-                ", costo=" + MyOutput.formattaDouble(costo) +
+                ", costo=" + MyFormatter.formattaDouble(costo) +
                 '}';
     }
 

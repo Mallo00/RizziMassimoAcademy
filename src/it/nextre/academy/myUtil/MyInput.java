@@ -160,31 +160,4 @@ public class MyInput {
     }
 
 
-    public static int leggiIntero2() {
-        Scanner s = new Scanner(System.in);
-        String tmp = s.nextLine().trim();
-        String numeri = "0123456789";
-        //se arrivo qui tmp è una sequenza di numeri positiva
-        try {
-            return Integer.parseInt(tmp);
-        } catch (NumberFormatException e) {
-            //trovato carattere non valido
-            System.out.println("Input non valido");
-            return Integer.parseInt(tmp);//ricorsivo
-        }
-    }
-
-    public static double getRandomTemp(double tempBase, double delta) {
-        double temp = 0, base = tempBase, maxscarto = delta, scarto;
-        Random r = new Random();
-        scarto = r.nextDouble() * maxscarto;
-        if (r.nextBoolean()) {
-            //true, aggiungo
-            temp = base + scarto;
-        } else {
-            //sottraggo
-            temp = base - scarto;
-        }
-        return temp;
-    }
 }//end class

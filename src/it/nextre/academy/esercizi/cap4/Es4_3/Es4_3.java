@@ -14,7 +14,7 @@ public class Es4_3 {
         vetNum=caricaVet(vetNum);
         MyOutput.stampaVettoreInt(vetNum);
         int[] vetContr=new int[vetNum.length];
-        vetContr=MyOutput.invertiVettoreInt(vetNum);
+        vetContr=MyLoadings.invertiVettoreInt(vetNum);
        // vetContr=invertiVettore(vetNum, vetContr);
         MyOutput.stampaVettoreInt(vetContr);
     }

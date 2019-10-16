@@ -1,9 +1,11 @@
 package it.nextre.academy.lavanderia;
 
 import it.nextre.academy.esercizi.cap5.es5_4_observable.EstrattoreG;
+import it.nextre.academy.myUtil.MyFormatter;
 import it.nextre.academy.myUtil.MyOutput;
 
 import java.time.LocalDateTime;
+import java.util.Map;
 import java.util.Random;
 
 public class Capo {
@@ -40,7 +42,7 @@ public class Capo {
                 ", materiale=" + materiale +
                 ", categoria=" + categoria +
                 ", colore=" + colore +
-                ", prezzo=" + MyOutput.formattaDouble(prezzo) +
+                ", prezzo=" + MyFormatter.formattaDouble(prezzo) +
                 ", pulito=" + pulito +
                 ", dataLavaggio=" + dataLavaggio +
                 '}';

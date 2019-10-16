@@ -1,4 +1,4 @@
-package it.nextre.academy.myUtil;
+package it.nextre.academy.myUtil.myInterfaces;
 
 public interface Printable {
     public static final String ANSI_RESET = "\u001B[0m";

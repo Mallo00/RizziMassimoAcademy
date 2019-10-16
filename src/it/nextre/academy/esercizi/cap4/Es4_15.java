@@ -1,5 +1,6 @@
 package it.nextre.academy.esercizi.cap4;
 
+import it.nextre.academy.myUtil.MyFormatter;
 import it.nextre.academy.myUtil.MyOutput;
 
 import java.text.DecimalFormat;
@@ -23,7 +24,7 @@ public class Es4_15 {
         }
         double percentTesta, percentCroce;
         System.out.println("Lanci: "+vetLanci.length);
-        System.out.println("Percentuale di testa "+MyOutput.formattaDouble((contatesta * 100) / vetLanci.length)+"%");
-        System.out.println("Percentuale di croce su "+MyOutput.formattaDouble((contacroce * 100) / vetLanci.length)+"%");
+        System.out.println("Percentuale di testa "+ MyFormatter.formattaDouble((contatesta * 100) / vetLanci.length)+"%");
+        System.out.println("Percentuale di croce su "+MyFormatter.formattaDouble((contacroce * 100) / vetLanci.length)+"%");
     }
 }//end class
