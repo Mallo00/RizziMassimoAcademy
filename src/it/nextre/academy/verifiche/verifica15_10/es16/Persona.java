@@ -60,6 +60,7 @@ public class Persona {
             agenda.stampa();
         }
     }
+
     private void visualizzaImpegni(boolean completato) {
         if (agenda.impegni.isEmpty()) {
             System.out.println("Non hai impegni registrati.");
