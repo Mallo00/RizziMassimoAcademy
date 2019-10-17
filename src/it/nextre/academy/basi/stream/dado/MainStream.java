@@ -1,4 +1,4 @@
-package it.nextre.academy.basi.stream;
+package it.nextre.academy.basi.stream.dado;
 
 import it.nextre.academy.myUtil.DummyData;
 

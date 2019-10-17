@@ -1,62 +1,39 @@
 package it.nextre.academy.myUtil.dummyObj;
 
-public class Umano {
-    private int age;
+
+import it.nextre.academy.myUtil.DummyData;
+import it.nextre.academy.myUtil.MyFormatter;
+
+import java.util.Comparator;
+
+public class Umano implements Comparable<Umano>, Comparator<Umano> {
     private String nome;
     private String cognome;
+    private int eta;
     private double peso;
     private double altezza;
 
-    public Umano() {
-
-    }
-
-    public Umano(String nome) {
-        this.nome = nome;
-    }
-
-    public Umano(int age, String nome, String cognome, double peso, double altezza) {
-        this.age = age;
+    public Umano(String nome, String cognome, int eta, double peso, double altezza) {
         this.nome = nome;
         this.cognome = cognome;
+        this.eta = eta;
         this.peso = peso;
         this.altezza = altezza;
-    }
-
-    public Umano(String nome, String cognome, double altezza) {
-        this.nome = nome;
-        this.cognome = cognome;
-        this.altezza = altezza;
-    }
-
-    public Umano(int age, String nome, String cognome) {
-        this.age = age;
-        this.nome = nome;
-        this.cognome = cognome;
     }
 
     public Umano(String nome, String cognome) {
         this.nome = nome;
         this.cognome = cognome;
+        this.eta = 0;
+        this.peso = 0;
+        this.altezza = 0;
     }
-
-    @Override
-    public String toString() {
-        return "Umano{" +
-                "Nome=" + nome +
-                ", cognome='" + cognome + '\'' +
-                ", eta='" + age + " anni" + '\'' +
-                ", peso=" + peso + "kg" +
-                ", altezza=" + altezza + "cm" +
-                '}';
-    }
-
-    public int getAge() {
-        return age;
-    }
-
-    public void setAge(int age) {
-        this.age = age;
+    public Umano(String nome, String cognome, int eta) {
+        this.nome = nome;
+        this.cognome = cognome;
+        this.eta = eta;
+        this.peso = 0;
+        this.altezza = 0;
     }
 
     public String getNome() {
@@ -67,12 +44,20 @@ public class Umano {
         this.nome = nome;
     }
 
-    public String getcognome() {
+    public String getCognome() {
         return cognome;
     }
 
-    public void setcognome(String cognome) {
+    public void setCognome(String cognome) {
         this.cognome = cognome;
+    }
+
+    public int getEta() {
+        return eta;
+    }
+
+    public void setEta(int eta) {
+        this.eta = eta;
     }
 
     public double getPeso() {
@@ -90,4 +75,44 @@ public class Umano {
     public void setAltezza(double altezza) {
         this.altezza = altezza;
     }
-}//end class
+
+    @Override
+    public String toString() {
+        return "Umano{" +
+                "nome='" + nome + '\'' +
+                ", cognome='" + cognome + '\'' +
+                ", eta=" + eta +
+                ", peso=" + MyFormatter.formattaDouble(peso) + "kg" +
+                ", altezza=" + MyFormatter.formattaDouble(altezza) + "cm" +
+                '}';
+    }
+
+
+    // Comparable
+    @Override
+    public int compareTo(Umano o) {
+        //if(!(o instanceof Umano))return -1; //inutile perchè ho tipizzato il Comparable nell'interfaccia!
+        return this.nome.compareTo(((Umano) o).getNome());
+    }
+
+
+    //Comparator
+
+
+    @Override
+    public int compare(Umano o1, Umano o2) {
+        return o1.getEta() - o2.getEta();
+    }
+
+    public static Umano getRandomUmano() {
+        return new Umano(
+                DummyData.getNome(),
+                DummyData.getCognome(),
+                DummyData.getAge(60,70),
+                DummyData.getRandomDouble(50, 20),
+                DummyData.getRandomDouble(170, 30)
+        );
+    }
+
+}
+//end class

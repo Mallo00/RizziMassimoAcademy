@@ -1,6 +1,6 @@
 package it.nextre.academy.esercizi.ripassi.verifica.strategy;
 
-import it.nextre.academy.basi.Umano;
+import it.nextre.academy.myUtil.dummyObj.Umano;
 public class CriterioCercaEta implements Filtrabile {
 
 

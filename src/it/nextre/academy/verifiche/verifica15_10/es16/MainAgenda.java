@@ -10,7 +10,7 @@ Infine creare un metodo stampaAgendaAnnuale che restituisca l'intera agenda dell
  */
 public class MainAgenda {
     public static void main(String[] args) {
-        Persona p=new Persona(DummyData.getNome());
+        Persona p = new Persona(DummyData.getNome());
         p.menu();
     }
 }//end class

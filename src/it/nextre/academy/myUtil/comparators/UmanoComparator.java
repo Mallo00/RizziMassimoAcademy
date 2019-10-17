@@ -1,4 +1,6 @@
-package it.nextre.academy.basi;
+package it.nextre.academy.myUtil.comparators;
+
+import it.nextre.academy.myUtil.dummyObj.Umano;
 
 import java.util.Comparator;
 

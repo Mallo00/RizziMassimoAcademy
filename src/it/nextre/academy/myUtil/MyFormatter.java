@@ -17,6 +17,10 @@ public class MyFormatter {
         return s;
     }
 
+    public static String capitalizza(String s){
+        return s.toUpperCase().charAt(0)+s.substring(1).toLowerCase();
+    }
+
     public static String formattaDouble(double numero){
         return formattaDouble(numero, 2);
     }

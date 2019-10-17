@@ -72,24 +72,21 @@ public class Persona {
     }
 
 
-
-
-
     private void completa() {
         if (agenda.impegni.isEmpty()) {
             System.out.println("Non hai impegni registrati.");
             return;
         }
         visualizzaImpegni(false);
-        int scelta=0;
+        int scelta = 0;
         do {
             System.out.println("Quale impegno hai completato?");
-            scelta=MyInput.leggiInteroPositivo();
-            if (scelta<1||scelta>agenda.impegni.size()){
+            scelta = MyInput.leggiInteroPositivo();
+            if (scelta < 1 || scelta > agenda.impegni.size()) {
                 System.out.println("Hai inserito un valore non valido. Riprova.");
             }
-        }while (scelta<1||scelta>agenda.impegni.size());
-        agenda.impegni.get(scelta-1).setCompletato(true);
+        } while (scelta < 1 || scelta > agenda.impegni.size());
+        agenda.impegni.get(scelta - 1).setCompletato(true);
         System.out.println("Impegno portato a termine!");
 
     }
@@ -101,15 +98,15 @@ public class Persona {
             return;
         }
         visualizzaImpegni();
-        int scelta=0;
+        int scelta = 0;
         do {
             System.out.println("Quale impegno vuoi rimuovere?");
-            scelta=MyInput.leggiInteroPositivo();
-            if (scelta<1||scelta>agenda.impegni.size()){
+            scelta = MyInput.leggiInteroPositivo();
+            if (scelta < 1 || scelta > agenda.impegni.size()) {
                 System.out.println("Hai inserito un valore non valido. Riprova.");
             }
-        }while (scelta<1||scelta>agenda.impegni.size());
-        agenda.impegni.remove(scelta-1);
+        } while (scelta < 1 || scelta > agenda.impegni.size());
+        agenda.impegni.remove(scelta - 1);
         System.out.println("Impegno rimosso!");
     }
 
@@ -219,9 +216,10 @@ public class Persona {
                 System.out.println((i + 1) + ") " + impegni.get(i));
             }
         }
+
         public void stampa(boolean completato) {
             for (int i = 0; i < impegni.size(); i++) {
-                if (impegni.get(i).isCompletato()==completato){
+                if (impegni.get(i).isCompletato() == completato) {
                     System.out.println((i + 1) + ") " + impegni.get(i));
                 }
             }
