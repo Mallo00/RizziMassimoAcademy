@@ -1,0 +1,8 @@
+Alloggio: Lashawn
+	classificazione=3
+	location=LAGO
+	prezzoPerNotte=37,72€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=381,46m

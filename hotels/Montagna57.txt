@@ -1,0 +1,8 @@
+Alloggio: Kristie
+	classificazione=2
+	location=MONTAGNA
+	prezzoPerNotte=79,14€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=224,81m

@@ -1,0 +1,8 @@
+Alloggio: Devorah
+	classificazione=3
+	location=LAGO
+	prezzoPerNotte=87,82€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=173,38m

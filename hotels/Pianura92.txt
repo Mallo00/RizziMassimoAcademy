@@ -1,0 +1,8 @@
+Alloggio: Sade
+	classificazione=1
+	location=PIANURA
+	prezzoPerNotte=91,49€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=894,51m

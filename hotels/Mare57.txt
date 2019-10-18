@@ -1,0 +1,8 @@
+Alloggio: Shin
+	classificazione=5
+	location=MARE
+	prezzoPerNotte=197,1€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=340,38m

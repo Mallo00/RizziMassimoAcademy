@@ -1,0 +1,8 @@
+Alloggio: Laquita
+	classificazione=1
+	location=MARE
+	prezzoPerNotte=194,56€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=553,05m

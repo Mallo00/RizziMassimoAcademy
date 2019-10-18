@@ -1,0 +1,8 @@
+Alloggio: Loma
+	classificazione=4
+	location=MONTAGNA
+	prezzoPerNotte=116,49€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=125,74m

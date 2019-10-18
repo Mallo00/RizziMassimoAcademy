@@ -1,0 +1,8 @@
+Alloggio: Piper
+	classificazione=4
+	location=MARE
+	prezzoPerNotte=168,86€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=730,67m

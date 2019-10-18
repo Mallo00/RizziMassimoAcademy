@@ -1,0 +1,8 @@
+Alloggio: Maggie
+	classificazione=5
+	location=MARE
+	prezzoPerNotte=150,07€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=247,84m

@@ -1,0 +1,8 @@
+Alloggio: Santina
+	classificazione=2
+	location=MONTAGNA
+	prezzoPerNotte=93,94€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=905,87m

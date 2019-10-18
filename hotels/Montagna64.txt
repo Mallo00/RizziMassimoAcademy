@@ -1,0 +1,8 @@
+Alloggio: Shin
+	classificazione=5
+	location=MONTAGNA
+	prezzoPerNotte=145,52€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=328,58m

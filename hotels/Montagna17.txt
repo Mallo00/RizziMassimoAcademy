@@ -1,0 +1,8 @@
+Alloggio: Tyler
+	classificazione=2
+	location=MONTAGNA
+	prezzoPerNotte=102,08€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=36,29m

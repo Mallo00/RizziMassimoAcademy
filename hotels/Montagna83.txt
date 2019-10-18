@@ -1,0 +1,8 @@
+Alloggio: Willie
+	classificazione=3
+	location=MONTAGNA
+	prezzoPerNotte=174,49€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=884,9m

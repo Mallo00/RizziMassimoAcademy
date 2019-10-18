@@ -1,0 +1,8 @@
+Alloggio: Ilda
+	classificazione=5
+	location=PIANURA
+	prezzoPerNotte=154,3€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=666,99m

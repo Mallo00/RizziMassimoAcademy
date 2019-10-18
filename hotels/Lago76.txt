@@ -1,0 +1,8 @@
+Alloggio: Jennell
+	classificazione=4
+	location=LAGO
+	prezzoPerNotte=125,42€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=786,16m

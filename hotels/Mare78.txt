@@ -1,0 +1,8 @@
+Alloggio: Trena
+	classificazione=3
+	location=MARE
+	prezzoPerNotte=39,51€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=470,45m

@@ -1,0 +1,8 @@
+Alloggio: Isabelle
+	classificazione=1
+	location=MARE
+	prezzoPerNotte=99,14€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=760,78m

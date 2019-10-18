@@ -1,0 +1,8 @@
+Alloggio: Trudie
+	classificazione=5
+	location=MONTAGNA
+	prezzoPerNotte=91,63€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=846,46m

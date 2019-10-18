@@ -1,0 +1,8 @@
+Alloggio: Alva
+	classificazione=1
+	location=LAGO
+	prezzoPerNotte=65,01€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=450,02m

@@ -1,0 +1,8 @@
+Alloggio: Laquita
+	classificazione=4
+	location=LAGO
+	prezzoPerNotte=117,22€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=341,87m

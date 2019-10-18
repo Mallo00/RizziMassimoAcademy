@@ -1,0 +1,8 @@
+Alloggio: Carlene
+	classificazione=1
+	location=MONTAGNA
+	prezzoPerNotte=83,2€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=543,23m

@@ -1,0 +1,8 @@
+Alloggio: Nola
+	classificazione=3
+	location=MONTAGNA
+	prezzoPerNotte=169,42€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=850,89m

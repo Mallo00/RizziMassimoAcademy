@@ -1,0 +1,8 @@
+Alloggio: Mariela
+	classificazione=2
+	location=MONTAGNA
+	prezzoPerNotte=122,05€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=625,12m

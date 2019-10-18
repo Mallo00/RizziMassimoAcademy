@@ -1,0 +1,8 @@
+Alloggio: Joline
+	classificazione=3
+	location=PIANURA
+	prezzoPerNotte=48,86€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=995,36m

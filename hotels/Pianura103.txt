@@ -1,0 +1,8 @@
+Alloggio: Christel
+	classificazione=4
+	location=PIANURA
+	prezzoPerNotte=165,97€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=592,96m

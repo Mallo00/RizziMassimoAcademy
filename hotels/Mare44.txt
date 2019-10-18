@@ -1,0 +1,8 @@
+Alloggio: Sheena
+	classificazione=4
+	location=MARE
+	prezzoPerNotte=94,46€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=836,03m

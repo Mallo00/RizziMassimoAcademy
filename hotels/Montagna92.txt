@@ -1,0 +1,8 @@
+Alloggio: Ty
+	classificazione=2
+	location=MONTAGNA
+	prezzoPerNotte=67,33€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=840,56m

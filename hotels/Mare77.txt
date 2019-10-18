@@ -1,0 +1,8 @@
+Alloggio: Nanette
+	classificazione=5
+	location=MARE
+	prezzoPerNotte=76,12€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=477,85m

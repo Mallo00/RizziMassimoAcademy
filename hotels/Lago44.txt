@@ -1,0 +1,8 @@
+Alloggio: Sade
+	classificazione=2
+	location=LAGO
+	prezzoPerNotte=151,4€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=21,63m

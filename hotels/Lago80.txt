@@ -1,0 +1,8 @@
+Alloggio: Wilson
+	classificazione=1
+	location=LAGO
+	prezzoPerNotte=58,36€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=817,02m

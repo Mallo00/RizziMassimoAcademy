@@ -1,0 +1,8 @@
+Alloggio: Annmarie
+	classificazione=1
+	location=PIANURA
+	prezzoPerNotte=80,75€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=539,24m

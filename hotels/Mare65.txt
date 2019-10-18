@@ -1,0 +1,8 @@
+Alloggio: Luciano
+	classificazione=3
+	location=MARE
+	prezzoPerNotte=60,27€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=514,88m

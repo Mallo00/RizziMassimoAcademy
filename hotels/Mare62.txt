@@ -1,0 +1,8 @@
+Alloggio: Natalia
+	classificazione=5
+	location=MARE
+	prezzoPerNotte=162,98€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=149,74m

@@ -1,0 +1,8 @@
+Alloggio: Alexandra
+	classificazione=2
+	location=MONTAGNA
+	prezzoPerNotte=73,39€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=253,56m

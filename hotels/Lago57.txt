@@ -1,0 +1,8 @@
+Alloggio: Wai
+	classificazione=4
+	location=LAGO
+	prezzoPerNotte=90,05€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=680,84m

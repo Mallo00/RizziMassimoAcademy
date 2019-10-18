@@ -1,0 +1,8 @@
+Alloggio: Rosalina
+	classificazione=4
+	location=LAGO
+	prezzoPerNotte=46,24€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=602,73m

@@ -1,0 +1,8 @@
+Alloggio: Debbra
+	classificazione=2
+	location=MONTAGNA
+	prezzoPerNotte=38,53€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=604,32m

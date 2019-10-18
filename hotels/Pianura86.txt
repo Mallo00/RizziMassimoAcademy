@@ -1,0 +1,8 @@
+Alloggio: Elna
+	classificazione=4
+	location=PIANURA
+	prezzoPerNotte=98,53€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=219,27m

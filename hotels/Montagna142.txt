@@ -1,0 +1,8 @@
+Alloggio: Madge
+	classificazione=5
+	location=MONTAGNA
+	prezzoPerNotte=74,13€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=770,46m

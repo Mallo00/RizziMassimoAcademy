@@ -1,0 +1,8 @@
+Alloggio: Nicki
+	classificazione=5
+	location=PIANURA
+	prezzoPerNotte=198,28€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=72,1m

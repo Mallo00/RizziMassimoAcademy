@@ -1,0 +1,8 @@
+Alloggio: Lashawn
+	classificazione=1
+	location=MARE
+	prezzoPerNotte=176,53€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=340,94m

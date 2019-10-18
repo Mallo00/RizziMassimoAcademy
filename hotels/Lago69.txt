@@ -1,0 +1,8 @@
+Alloggio: Miriam
+	classificazione=3
+	location=LAGO
+	prezzoPerNotte=177,56€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=252,67m

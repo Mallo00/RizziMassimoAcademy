@@ -1,0 +1,8 @@
+Alloggio: Retha
+	classificazione=5
+	location=PIANURA
+	prezzoPerNotte=33,99€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=784,32m

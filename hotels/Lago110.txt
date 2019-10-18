@@ -1,0 +1,8 @@
+Alloggio: Farah
+	classificazione=4
+	location=LAGO
+	prezzoPerNotte=70,85€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=237,57m

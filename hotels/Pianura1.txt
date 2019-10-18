@@ -1,0 +1,8 @@
+Alloggio: Luciano
+	classificazione=4
+	location=PIANURA
+	prezzoPerNotte=77,79€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=460,24m

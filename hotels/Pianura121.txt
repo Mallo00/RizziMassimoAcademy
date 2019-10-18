@@ -1,0 +1,8 @@
+Alloggio: Mavis
+	classificazione=4
+	location=PIANURA
+	prezzoPerNotte=198,28€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=411,05m

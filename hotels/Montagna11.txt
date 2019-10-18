@@ -1,0 +1,8 @@
+Alloggio: Retha
+	classificazione=1
+	location=MONTAGNA
+	prezzoPerNotte=58,88€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=693,09m

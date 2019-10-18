@@ -1,0 +1,8 @@
+Alloggio: Sade
+	classificazione=3
+	location=MARE
+	prezzoPerNotte=139,35€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=41m

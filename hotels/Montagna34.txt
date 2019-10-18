@@ -1,0 +1,8 @@
+Alloggio: Naoma
+	classificazione=3
+	location=MONTAGNA
+	prezzoPerNotte=169,7€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=488,24m

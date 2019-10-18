@@ -1,0 +1,8 @@
+Alloggio: Bree
+	classificazione=4
+	location=MARE
+	prezzoPerNotte=100,9€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=260,59m

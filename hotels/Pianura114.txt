@@ -1,0 +1,8 @@
+Alloggio: Lakia
+	classificazione=1
+	location=PIANURA
+	prezzoPerNotte=69,05€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=548,72m

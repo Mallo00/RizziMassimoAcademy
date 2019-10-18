@@ -1,0 +1,8 @@
+Alloggio: Isabelle
+	classificazione=1
+	location=PIANURA
+	prezzoPerNotte=72,87€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=149,1m

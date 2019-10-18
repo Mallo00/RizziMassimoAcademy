@@ -1,0 +1,8 @@
+Alloggio: Lynelle
+	classificazione=1
+	location=MARE
+	prezzoPerNotte=125,54€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=468,38m

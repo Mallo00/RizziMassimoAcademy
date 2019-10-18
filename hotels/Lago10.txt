@@ -1,0 +1,8 @@
+Alloggio: Bree
+	classificazione=2
+	location=LAGO
+	prezzoPerNotte=36,06€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=300,99m

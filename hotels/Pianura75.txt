@@ -1,0 +1,8 @@
+Alloggio: Wai
+	classificazione=1
+	location=PIANURA
+	prezzoPerNotte=100,86€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=596,12m

@@ -1,0 +1,8 @@
+Alloggio: Christel
+	classificazione=3
+	location=MONTAGNA
+	prezzoPerNotte=40,67€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=430,65m

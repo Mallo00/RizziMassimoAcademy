@@ -1,0 +1,8 @@
+Alloggio: Danielle
+	classificazione=1
+	location=MONTAGNA
+	prezzoPerNotte=97,76€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=142,92m

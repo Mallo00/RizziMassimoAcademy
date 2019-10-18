@@ -1,0 +1,8 @@
+Alloggio: Luigi
+	classificazione=5
+	location=MARE
+	prezzoPerNotte=176,84€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=273,53m

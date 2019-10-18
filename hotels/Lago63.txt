@@ -1,0 +1,8 @@
+Alloggio: Rebekah
+	classificazione=3
+	location=LAGO
+	prezzoPerNotte=37,94€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=749,11m

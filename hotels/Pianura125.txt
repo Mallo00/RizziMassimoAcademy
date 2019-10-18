@@ -1,0 +1,8 @@
+Alloggio: Milly
+	classificazione=4
+	location=PIANURA
+	prezzoPerNotte=115,69€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=541m

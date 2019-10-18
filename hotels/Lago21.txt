@@ -1,0 +1,8 @@
+Alloggio: Zackary
+	classificazione=2
+	location=LAGO
+	prezzoPerNotte=86,4€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=535,54m

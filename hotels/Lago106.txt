@@ -1,0 +1,8 @@
+Alloggio: Nicki
+	classificazione=1
+	location=LAGO
+	prezzoPerNotte=35,69€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=858,5m

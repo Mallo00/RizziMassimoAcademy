@@ -1,0 +1,8 @@
+Alloggio: Debbra
+	classificazione=3
+	location=PIANURA
+	prezzoPerNotte=77,79€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=608,53m

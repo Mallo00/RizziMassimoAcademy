@@ -1,0 +1,8 @@
+Alloggio: Sudie
+	classificazione=3
+	location=LAGO
+	prezzoPerNotte=46,25€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=407,2m

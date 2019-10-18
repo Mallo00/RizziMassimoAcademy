@@ -1,0 +1,8 @@
+Alloggio: Madge
+	classificazione=3
+	location=MARE
+	prezzoPerNotte=131,97€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=944,84m

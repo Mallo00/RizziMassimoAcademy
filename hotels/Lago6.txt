@@ -1,0 +1,8 @@
+Alloggio: Myesha
+	classificazione=4
+	location=LAGO
+	prezzoPerNotte=105,56€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=21,97m

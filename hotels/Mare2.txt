@@ -1,0 +1,8 @@
+Alloggio: Azzie
+	classificazione=2
+	location=MARE
+	prezzoPerNotte=88,33€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=518,11m

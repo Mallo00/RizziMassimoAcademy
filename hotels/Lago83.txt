@@ -1,0 +1,8 @@
+Alloggio: Dixie
+	classificazione=5
+	location=LAGO
+	prezzoPerNotte=148,95€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=893,7m

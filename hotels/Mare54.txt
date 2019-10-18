@@ -1,0 +1,8 @@
+Alloggio: Cassidy
+	classificazione=4
+	location=MARE
+	prezzoPerNotte=187,22€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=516,43m

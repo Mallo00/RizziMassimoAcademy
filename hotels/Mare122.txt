@@ -1,0 +1,8 @@
+Alloggio: Lorita
+	classificazione=1
+	location=MARE
+	prezzoPerNotte=134,35€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=841,31m

@@ -1,0 +1,8 @@
+Alloggio: Dixie
+	classificazione=4
+	location=MONTAGNA
+	prezzoPerNotte=133,91€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=790,29m

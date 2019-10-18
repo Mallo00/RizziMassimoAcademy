@@ -1,0 +1,8 @@
+Alloggio: Tisa
+	classificazione=1
+	location=PIANURA
+	prezzoPerNotte=92,25€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=129,77m

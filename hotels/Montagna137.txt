@@ -1,0 +1,8 @@
+Alloggio: Collen
+	classificazione=4
+	location=MONTAGNA
+	prezzoPerNotte=149,47€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=652,79m

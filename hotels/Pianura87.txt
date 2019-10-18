@@ -1,0 +1,8 @@
+Alloggio: Aide
+	classificazione=2
+	location=PIANURA
+	prezzoPerNotte=171,7€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=806,73m

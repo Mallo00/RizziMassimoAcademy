@@ -1,0 +1,8 @@
+Alloggio: Sheena
+	classificazione=3
+	location=PIANURA
+	prezzoPerNotte=49,9€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=984,5m

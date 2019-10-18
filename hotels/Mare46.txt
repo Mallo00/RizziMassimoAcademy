@@ -1,0 +1,8 @@
+Alloggio: Humberto
+	classificazione=5
+	location=MARE
+	prezzoPerNotte=88,47€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=457,95m

@@ -1,0 +1,8 @@
+Alloggio: Maggie
+	classificazione=5
+	location=MONTAGNA
+	prezzoPerNotte=83,92€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=239,08m

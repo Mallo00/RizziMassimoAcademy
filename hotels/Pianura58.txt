@@ -1,0 +1,8 @@
+Alloggio: Sudie
+	classificazione=3
+	location=PIANURA
+	prezzoPerNotte=178,91€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=899,63m

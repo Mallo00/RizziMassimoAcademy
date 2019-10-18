@@ -1,0 +1,8 @@
+Alloggio: Andres
+	classificazione=5
+	location=LAGO
+	prezzoPerNotte=177,59€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=492,36m

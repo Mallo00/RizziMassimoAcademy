@@ -1,0 +1,8 @@
+Alloggio: Reynaldo
+	classificazione=4
+	location=LAGO
+	prezzoPerNotte=98,95€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=706,36m

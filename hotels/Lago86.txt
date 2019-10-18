@@ -1,0 +1,8 @@
+Alloggio: Inell
+	classificazione=3
+	location=LAGO
+	prezzoPerNotte=48,63€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=11,04m

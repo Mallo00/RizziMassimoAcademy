@@ -1,0 +1,8 @@
+Alloggio: Wai
+	classificazione=5
+	location=MARE
+	prezzoPerNotte=67,28€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=806,66m

@@ -1,0 +1,8 @@
+Alloggio: Chana
+	classificazione=1
+	location=MARE
+	prezzoPerNotte=171,17€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=579,81m

@@ -1,0 +1,8 @@
+Alloggio: Rhona
+	classificazione=4
+	location=PIANURA
+	prezzoPerNotte=139,61€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=630m

@@ -1,0 +1,8 @@
+Alloggio: Georgianna
+	classificazione=1
+	location=MONTAGNA
+	prezzoPerNotte=91,61€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=264,77m

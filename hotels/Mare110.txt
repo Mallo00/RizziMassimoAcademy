@@ -1,0 +1,8 @@
+Alloggio: Vinnie
+	classificazione=3
+	location=MARE
+	prezzoPerNotte=61,87€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=665,42m

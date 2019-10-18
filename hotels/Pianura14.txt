@@ -1,0 +1,8 @@
+Alloggio: Piper
+	classificazione=1
+	location=PIANURA
+	prezzoPerNotte=126,67€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=128,26m

@@ -1,0 +1,8 @@
+Alloggio: Carlene
+	classificazione=4
+	location=MARE
+	prezzoPerNotte=195,77€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=549,95m

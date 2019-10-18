@@ -1,0 +1,8 @@
+Alloggio: Leia
+	classificazione=1
+	location=LAGO
+	prezzoPerNotte=73,95€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=464,84m

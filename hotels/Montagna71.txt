@@ -1,0 +1,8 @@
+Alloggio: Casimira
+	classificazione=1
+	location=MONTAGNA
+	prezzoPerNotte=175,16€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=131,23m

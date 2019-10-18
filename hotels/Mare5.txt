@@ -1,0 +1,8 @@
+Alloggio: Rosalina
+	classificazione=4
+	location=MARE
+	prezzoPerNotte=87,23€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=755,92m

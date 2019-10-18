@@ -1,0 +1,8 @@
+Alloggio: Leisha
+	classificazione=2
+	location=PIANURA
+	prezzoPerNotte=192,82€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=662,79m

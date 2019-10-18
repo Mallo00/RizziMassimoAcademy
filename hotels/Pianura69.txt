@@ -1,0 +1,8 @@
+Alloggio: Alexandra
+	classificazione=3
+	location=PIANURA
+	prezzoPerNotte=38,02€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=199,79m

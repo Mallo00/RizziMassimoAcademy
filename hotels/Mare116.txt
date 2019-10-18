@@ -1,0 +1,8 @@
+Alloggio: Kesha
+	classificazione=1
+	location=MARE
+	prezzoPerNotte=139,7€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=949,88m

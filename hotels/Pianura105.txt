@@ -1,0 +1,8 @@
+Alloggio: Malorie
+	classificazione=5
+	location=PIANURA
+	prezzoPerNotte=93,46€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=140,06m

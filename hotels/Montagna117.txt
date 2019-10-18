@@ -1,0 +1,8 @@
+Alloggio: Tisa
+	classificazione=5
+	location=MONTAGNA
+	prezzoPerNotte=197,37€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=234,34m

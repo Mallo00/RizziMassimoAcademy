@@ -1,0 +1,8 @@
+Alloggio: Naoma
+	classificazione=3
+	location=PIANURA
+	prezzoPerNotte=195,32€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=43,04m

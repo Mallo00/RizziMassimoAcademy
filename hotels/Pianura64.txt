@@ -1,0 +1,8 @@
+Alloggio: Alla
+	classificazione=1
+	location=PIANURA
+	prezzoPerNotte=43,47€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=946,22m

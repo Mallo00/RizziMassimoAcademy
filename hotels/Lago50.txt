@@ -1,0 +1,8 @@
+Alloggio: Vanesa
+	classificazione=2
+	location=LAGO
+	prezzoPerNotte=106,67€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=905,42m

@@ -1,0 +1,8 @@
+Alloggio: Jennell
+	classificazione=5
+	location=PIANURA
+	prezzoPerNotte=179,63€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=572,99m

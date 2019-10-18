@@ -1,0 +1,8 @@
+Alloggio: Rebbecca
+	classificazione=5
+	location=LAGO
+	prezzoPerNotte=133,07€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=680,28m

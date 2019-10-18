@@ -1,0 +1,8 @@
+Alloggio: Myesha
+	classificazione=1
+	location=MARE
+	prezzoPerNotte=40,04€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=741,04m

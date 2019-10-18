@@ -1,0 +1,8 @@
+Alloggio: Jose
+	classificazione=1
+	location=LAGO
+	prezzoPerNotte=168,86€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=496,29m

@@ -1,0 +1,8 @@
+Alloggio: Laquita
+	classificazione=4
+	location=MONTAGNA
+	prezzoPerNotte=122,46€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=124,39m

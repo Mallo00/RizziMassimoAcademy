@@ -1,0 +1,8 @@
+Alloggio: Natalia
+	classificazione=5
+	location=PIANURA
+	prezzoPerNotte=73,78€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=909,72m

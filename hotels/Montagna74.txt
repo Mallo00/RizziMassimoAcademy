@@ -1,0 +1,8 @@
+Alloggio: Myesha
+	classificazione=1
+	location=MONTAGNA
+	prezzoPerNotte=36,83€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=167,79m

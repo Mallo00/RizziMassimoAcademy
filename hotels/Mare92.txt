@@ -1,0 +1,8 @@
+Alloggio: Audra
+	classificazione=1
+	location=MARE
+	prezzoPerNotte=69,09€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=592,06m

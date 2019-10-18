@@ -1,0 +1,8 @@
+Alloggio: Rhona
+	classificazione=3
+	location=MARE
+	prezzoPerNotte=78,89€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=908,72m

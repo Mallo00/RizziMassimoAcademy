@@ -1,0 +1,8 @@
+Alloggio: Cassidy
+	classificazione=2
+	location=MONTAGNA
+	prezzoPerNotte=59,61€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=213,27m

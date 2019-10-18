@@ -1,0 +1,8 @@
+Alloggio: Sheena
+	classificazione=2
+	location=LAGO
+	prezzoPerNotte=91,71€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=666,57m

@@ -1,0 +1,8 @@
+Alloggio: Soraya
+	classificazione=3
+	location=LAGO
+	prezzoPerNotte=136€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=834,52m

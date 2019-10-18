@@ -1,0 +1,8 @@
+Alloggio: Rebekah
+	classificazione=4
+	location=PIANURA
+	prezzoPerNotte=166,92€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=259,22m

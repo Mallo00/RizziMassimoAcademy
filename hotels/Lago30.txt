@@ -1,0 +1,8 @@
+Alloggio: Janet
+	classificazione=3
+	location=LAGO
+	prezzoPerNotte=58,08€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=252,59m

@@ -1,0 +1,8 @@
+Alloggio: Zella
+	classificazione=1
+	location=MARE
+	prezzoPerNotte=182,9€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=759,61m

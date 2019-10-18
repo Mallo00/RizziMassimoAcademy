@@ -1,0 +1,8 @@
+Alloggio: Maryln
+	classificazione=1
+	location=MONTAGNA
+	prezzoPerNotte=31,17€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=721,03m

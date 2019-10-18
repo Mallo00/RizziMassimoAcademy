@@ -1,0 +1,8 @@
+Alloggio: Edwina
+	classificazione=3
+	location=MARE
+	prezzoPerNotte=131,46€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=929,2m

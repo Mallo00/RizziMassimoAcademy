@@ -1,0 +1,8 @@
+Alloggio: Eliz
+	classificazione=4
+	location=PIANURA
+	prezzoPerNotte=100,91€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=35,8m

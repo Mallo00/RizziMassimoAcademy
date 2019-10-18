@@ -1,0 +1,8 @@
+Alloggio: Reuben
+	classificazione=3
+	location=MARE
+	prezzoPerNotte=127,36€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=628,29m

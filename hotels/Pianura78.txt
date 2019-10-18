@@ -1,0 +1,8 @@
+Alloggio: Ty
+	classificazione=1
+	location=PIANURA
+	prezzoPerNotte=125,64€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=194,97m

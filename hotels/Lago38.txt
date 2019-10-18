@@ -1,0 +1,8 @@
+Alloggio: Naoma
+	classificazione=3
+	location=LAGO
+	prezzoPerNotte=161,23€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=176,01m

@@ -1,0 +1,8 @@
+Alloggio: Keneth
+	classificazione=5
+	location=MONTAGNA
+	prezzoPerNotte=94,06€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=59,25m

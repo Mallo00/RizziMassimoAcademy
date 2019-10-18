@@ -1,0 +1,8 @@
+Alloggio: Aide
+	classificazione=1
+	location=LAGO
+	prezzoPerNotte=130,46€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=783,42m

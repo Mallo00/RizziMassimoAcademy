@@ -1,0 +1,8 @@
+Alloggio: Tyler
+	classificazione=2
+	location=MARE
+	prezzoPerNotte=58,8€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=693,63m

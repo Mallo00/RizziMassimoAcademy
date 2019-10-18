@@ -1,0 +1,8 @@
+Alloggio: Lynelle
+	classificazione=1
+	location=PIANURA
+	prezzoPerNotte=30,84€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=198,53m

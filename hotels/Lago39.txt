@@ -1,0 +1,8 @@
+Alloggio: Leisha
+	classificazione=3
+	location=LAGO
+	prezzoPerNotte=43,78€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=956,34m

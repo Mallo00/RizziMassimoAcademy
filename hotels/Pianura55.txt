@@ -1,0 +1,8 @@
+Alloggio: Shawnee
+	classificazione=1
+	location=PIANURA
+	prezzoPerNotte=93,79€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=685,31m

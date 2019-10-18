@@ -1,0 +1,8 @@
+Alloggio: Charis
+	classificazione=1
+	location=MONTAGNA
+	prezzoPerNotte=183,05€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=386,7m

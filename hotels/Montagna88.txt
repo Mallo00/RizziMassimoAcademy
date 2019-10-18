@@ -1,0 +1,8 @@
+Alloggio: Piper
+	classificazione=5
+	location=MONTAGNA
+	prezzoPerNotte=54,78€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=415,24m

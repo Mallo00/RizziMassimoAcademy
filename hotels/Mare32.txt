@@ -1,0 +1,8 @@
+Alloggio: Janet
+	classificazione=4
+	location=MARE
+	prezzoPerNotte=145,79€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=506,38m

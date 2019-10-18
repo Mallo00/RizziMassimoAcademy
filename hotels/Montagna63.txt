@@ -1,0 +1,8 @@
+Alloggio: Alva
+	classificazione=1
+	location=MONTAGNA
+	prezzoPerNotte=139,46€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=780,02m

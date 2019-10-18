@@ -1,0 +1,8 @@
+Alloggio: Cassidy
+	classificazione=2
+	location=LAGO
+	prezzoPerNotte=89,86€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=857,86m

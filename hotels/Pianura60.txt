@@ -1,0 +1,8 @@
+Alloggio: Dixie
+	classificazione=1
+	location=PIANURA
+	prezzoPerNotte=171,27€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=12,41m

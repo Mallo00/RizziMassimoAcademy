@@ -1,0 +1,8 @@
+Alloggio: Chana
+	classificazione=5
+	location=LAGO
+	prezzoPerNotte=100,71€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=859,11m

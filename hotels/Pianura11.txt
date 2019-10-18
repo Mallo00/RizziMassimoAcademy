@@ -1,0 +1,8 @@
+Alloggio: Sharyl
+	classificazione=4
+	location=PIANURA
+	prezzoPerNotte=40,55€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=648,91m

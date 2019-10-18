@@ -1,0 +1,8 @@
+Alloggio: Ashanti
+	classificazione=2
+	location=MONTAGNA
+	prezzoPerNotte=145,27€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=158,88m

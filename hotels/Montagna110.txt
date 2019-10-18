@@ -1,0 +1,8 @@
+Alloggio: Humberto
+	classificazione=1
+	location=MONTAGNA
+	prezzoPerNotte=63,49€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=64,34m

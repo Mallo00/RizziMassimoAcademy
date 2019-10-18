@@ -1,0 +1,8 @@
+Alloggio: Ok
+	classificazione=1
+	location=MONTAGNA
+	prezzoPerNotte=185,03€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=472,84m

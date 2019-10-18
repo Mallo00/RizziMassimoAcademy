@@ -1,0 +1,8 @@
+Alloggio: Vinnie
+	classificazione=2
+	location=LAGO
+	prezzoPerNotte=126,34€
+	tipoStrutura=BaB
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=940m

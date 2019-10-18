@@ -1,0 +1,8 @@
+Alloggio: Joline
+	classificazione=4
+	location=MONTAGNA
+	prezzoPerNotte=152,89€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=802,58m

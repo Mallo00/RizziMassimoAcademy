@@ -1,0 +1,8 @@
+Alloggio: Zella
+	classificazione=2
+	location=MONTAGNA
+	prezzoPerNotte=120,14€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=911,55m

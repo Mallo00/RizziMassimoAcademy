@@ -1,0 +1,8 @@
+Alloggio: Soraya
+	classificazione=4
+	location=MONTAGNA
+	prezzoPerNotte=156,33€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=131,84m

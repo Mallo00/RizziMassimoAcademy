@@ -1,0 +1,8 @@
+Alloggio: Lucilla
+	classificazione=2
+	location=LAGO
+	prezzoPerNotte=189,81€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=129,66m

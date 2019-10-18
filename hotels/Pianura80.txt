@@ -1,0 +1,8 @@
+Alloggio: Lewis
+	classificazione=4
+	location=PIANURA
+	prezzoPerNotte=81,3€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=913,5m

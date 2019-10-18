@@ -1,0 +1,8 @@
+Alloggio: Kesha
+	classificazione=2
+	location=MONTAGNA
+	prezzoPerNotte=121,73€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=458,78m

@@ -1,0 +1,8 @@
+Alloggio: Myesha
+	classificazione=5
+	location=PIANURA
+	prezzoPerNotte=60,79€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=658,78m

@@ -1,0 +1,8 @@
+Alloggio: Casimira
+	classificazione=3
+	location=PIANURA
+	prezzoPerNotte=82,19€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=708,16m

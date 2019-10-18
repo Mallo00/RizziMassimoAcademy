@@ -1,0 +1,8 @@
+Alloggio: Leia
+	classificazione=5
+	location=MONTAGNA
+	prezzoPerNotte=180,84€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=43,93m

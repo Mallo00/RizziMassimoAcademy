@@ -1,0 +1,8 @@
+Alloggio: Alexandra
+	classificazione=1
+	location=MARE
+	prezzoPerNotte=84,67€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=false
+	distanza=38,89m

@@ -1,0 +1,8 @@
+Alloggio: Farah
+	classificazione=3
+	location=MARE
+	prezzoPerNotte=103,9€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=false
+	distanza=571,62m

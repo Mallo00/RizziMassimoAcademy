@@ -1,0 +1,8 @@
+Alloggio: Vanesa
+	classificazione=4
+	location=MARE
+	prezzoPerNotte=75,04€
+	tipoStrutura=APPARTAMENTO
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=73,48m

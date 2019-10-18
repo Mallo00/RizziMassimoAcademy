@@ -1,0 +1,8 @@
+Alloggio: Willie
+	classificazione=3
+	location=PIANURA
+	prezzoPerNotte=79,99€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=353,75m

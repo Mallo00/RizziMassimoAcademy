@@ -1,0 +1,8 @@
+Alloggio: Trena
+	classificazione=5
+	location=MONTAGNA
+	prezzoPerNotte=178,85€
+	tipoStrutura=BaB
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=405,65m

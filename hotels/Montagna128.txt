@@ -1,0 +1,8 @@
+Alloggio: Sharyl
+	classificazione=4
+	location=MONTAGNA
+	prezzoPerNotte=172,31€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=true
+	freeWifi=true
+	distanza=421,65m

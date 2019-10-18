@@ -1,0 +1,8 @@
+Alloggio: Georgianna
+	classificazione=3
+	location=LAGO
+	prezzoPerNotte=80,05€
+	tipoStrutura=HOTEL
+	parcheggioIncluso=false
+	freeWifi=true
+	distanza=549,86m
