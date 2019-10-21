@@ -1,8 +1,0 @@
-Alloggio: Nanette
-	classificazione=3
-	location=PIANURA
-	prezzoPerNotte=146,66€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=483,4m

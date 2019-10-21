@@ -1,8 +1,0 @@
-Alloggio: Rebekah
-	classificazione=1
-	location=MARE
-	prezzoPerNotte=42,92€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=247,76m

@@ -1,8 +1,0 @@
-Alloggio: Jada
-	classificazione=5
-	location=MONTAGNA
-	prezzoPerNotte=194,16€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=371,73m

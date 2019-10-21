@@ -1,8 +1,0 @@
-Alloggio: Debbra
-	classificazione=5
-	location=MARE
-	prezzoPerNotte=111,32€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=360,43m

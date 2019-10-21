@@ -1,8 +1,0 @@
-Alloggio: Inell
-	classificazione=2
-	location=PIANURA
-	prezzoPerNotte=61,69€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=259,53m

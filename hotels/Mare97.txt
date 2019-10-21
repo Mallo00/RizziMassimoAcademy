@@ -1,8 +1,0 @@
-Alloggio: Reynaldo
-	classificazione=3
-	location=MARE
-	prezzoPerNotte=128,69€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=634,23m

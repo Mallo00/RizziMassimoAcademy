@@ -1,8 +1,0 @@
-Alloggio: Georgianna
-	classificazione=1
-	location=PIANURA
-	prezzoPerNotte=139,75€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=525,75m

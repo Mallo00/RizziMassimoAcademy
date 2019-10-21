@@ -1,8 +1,0 @@
-Alloggio: Sade
-	classificazione=4
-	location=MONTAGNA
-	prezzoPerNotte=38,76€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=994,04m

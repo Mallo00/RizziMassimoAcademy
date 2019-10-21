@@ -1,8 +1,0 @@
-Alloggio: Rosalina
-	classificazione=5
-	location=PIANURA
-	prezzoPerNotte=171,03€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=622,55m

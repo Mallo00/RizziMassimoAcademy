@@ -1,8 +1,0 @@
-Alloggio: Lucilla
-	classificazione=3
-	location=MONTAGNA
-	prezzoPerNotte=142,77€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=130,8m

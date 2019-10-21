@@ -1,8 +1,0 @@
-Alloggio: Dorthy
-	classificazione=2
-	location=MONTAGNA
-	prezzoPerNotte=176,34€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=425,08m

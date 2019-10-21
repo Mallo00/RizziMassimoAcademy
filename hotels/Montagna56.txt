@@ -1,8 +1,0 @@
-Alloggio: Aide
-	classificazione=4
-	location=MONTAGNA
-	prezzoPerNotte=35,42€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=810,08m

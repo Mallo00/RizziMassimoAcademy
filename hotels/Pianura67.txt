@@ -1,8 +1,0 @@
-Alloggio: Bree
-	classificazione=3
-	location=PIANURA
-	prezzoPerNotte=49,3€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=828,94m

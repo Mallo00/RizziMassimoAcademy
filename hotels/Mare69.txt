@@ -1,8 +1,0 @@
-Alloggio: Nola
-	classificazione=4
-	location=MARE
-	prezzoPerNotte=92,02€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=457,29m

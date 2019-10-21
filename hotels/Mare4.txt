@@ -1,8 +1,0 @@
-Alloggio: Soraya
-	classificazione=2
-	location=MARE
-	prezzoPerNotte=168,66€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=709,06m

@@ -1,8 +1,0 @@
-Alloggio: Loma
-	classificazione=4
-	location=LAGO
-	prezzoPerNotte=162,3€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=786,9m

@@ -1,8 +1,0 @@
-Alloggio: Madge
-	classificazione=4
-	location=PIANURA
-	prezzoPerNotte=84,09€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=332,44m

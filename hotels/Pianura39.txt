@@ -1,8 +1,0 @@
-Alloggio: Chana
-	classificazione=4
-	location=PIANURA
-	prezzoPerNotte=88,61€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=510,75m

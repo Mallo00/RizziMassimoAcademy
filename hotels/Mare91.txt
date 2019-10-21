@@ -1,8 +1,0 @@
-Alloggio: Sudie
-	classificazione=3
-	location=MARE
-	prezzoPerNotte=126,58€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=340,96m

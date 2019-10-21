@@ -1,8 +1,0 @@
-Alloggio: Shin
-	classificazione=5
-	location=PIANURA
-	prezzoPerNotte=91,28€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=65,78m

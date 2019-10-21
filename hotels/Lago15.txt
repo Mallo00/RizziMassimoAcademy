@@ -1,8 +1,0 @@
-Alloggio: Keneth
-	classificazione=3
-	location=LAGO
-	prezzoPerNotte=195,97€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=639,01m

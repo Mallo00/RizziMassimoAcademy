@@ -1,8 +1,0 @@
-Alloggio: Retha
-	classificazione=2
-	location=LAGO
-	prezzoPerNotte=172,97€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=388,91m

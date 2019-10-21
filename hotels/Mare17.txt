@@ -1,8 +1,0 @@
-Alloggio: Sharyl
-	classificazione=1
-	location=MARE
-	prezzoPerNotte=131,89€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=388,32m

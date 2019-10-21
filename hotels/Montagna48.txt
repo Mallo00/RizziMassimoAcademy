@@ -1,8 +1,0 @@
-Alloggio: Wai
-	classificazione=5
-	location=MONTAGNA
-	prezzoPerNotte=157,99€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=192,69m

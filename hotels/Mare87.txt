@@ -1,8 +1,0 @@
-Alloggio: Ashanti
-	classificazione=5
-	location=MARE
-	prezzoPerNotte=153,02€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=688,98m

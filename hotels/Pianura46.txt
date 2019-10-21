@@ -1,8 +1,0 @@
-Alloggio: Audra
-	classificazione=1
-	location=PIANURA
-	prezzoPerNotte=113,53€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=407,38m

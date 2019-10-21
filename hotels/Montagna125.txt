@@ -1,8 +1,0 @@
-Alloggio: Andres
-	classificazione=3
-	location=MONTAGNA
-	prezzoPerNotte=191,66€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=422,24m

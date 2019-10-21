@@ -1,8 +1,0 @@
-Alloggio: Inell
-	classificazione=5
-	location=MONTAGNA
-	prezzoPerNotte=150,11€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=930,77m

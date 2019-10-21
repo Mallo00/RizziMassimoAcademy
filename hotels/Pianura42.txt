@@ -1,8 +1,0 @@
-Alloggio: Santina
-	classificazione=3
-	location=PIANURA
-	prezzoPerNotte=129,93€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=413,71m

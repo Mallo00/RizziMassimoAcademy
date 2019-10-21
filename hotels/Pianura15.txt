@@ -1,8 +1,0 @@
-Alloggio: Janet
-	classificazione=5
-	location=PIANURA
-	prezzoPerNotte=89,04€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=267,54m

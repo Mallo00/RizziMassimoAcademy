@@ -1,8 +1,0 @@
-Alloggio: Isabelle
-	classificazione=2
-	location=LAGO
-	prezzoPerNotte=178,84€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=155,92m

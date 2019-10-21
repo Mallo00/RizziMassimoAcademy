@@ -1,8 +1,0 @@
-Alloggio: Santina
-	classificazione=4
-	location=MARE
-	prezzoPerNotte=115,71€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=499,9m

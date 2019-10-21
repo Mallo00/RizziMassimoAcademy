@@ -1,8 +1,0 @@
-Alloggio: Eliz
-	classificazione=4
-	location=MONTAGNA
-	prezzoPerNotte=123,24€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=612,81m

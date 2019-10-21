@@ -1,8 +1,0 @@
-Alloggio: Willie
-	classificazione=1
-	location=LAGO
-	prezzoPerNotte=60,61€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=420,33m

@@ -1,8 +1,0 @@
-Alloggio: Mariela
-	classificazione=1
-	location=LAGO
-	prezzoPerNotte=197,03€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=465,03m

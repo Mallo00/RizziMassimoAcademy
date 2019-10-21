@@ -1,8 +1,0 @@
-Alloggio: Azzie
-	classificazione=5
-	location=MONTAGNA
-	prezzoPerNotte=91,22€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=430,55m

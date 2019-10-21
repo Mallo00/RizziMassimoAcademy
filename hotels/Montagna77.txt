@@ -1,8 +1,0 @@
-Alloggio: Miriam
-	classificazione=1
-	location=MONTAGNA
-	prezzoPerNotte=116,44€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=188,49m

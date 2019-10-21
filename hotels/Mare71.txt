@@ -1,8 +1,0 @@
-Alloggio: Ilda
-	classificazione=5
-	location=MARE
-	prezzoPerNotte=157,39€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=733,48m

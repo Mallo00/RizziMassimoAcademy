@@ -1,8 +1,0 @@
-Alloggio: Andres
-	classificazione=2
-	location=PIANURA
-	prezzoPerNotte=199,42€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=557,55m

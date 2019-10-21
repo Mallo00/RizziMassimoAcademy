@@ -1,8 +1,0 @@
-Alloggio: Ok
-	classificazione=4
-	location=MARE
-	prezzoPerNotte=199,91€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=346,88m

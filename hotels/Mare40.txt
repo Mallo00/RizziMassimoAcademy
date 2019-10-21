@@ -1,8 +1,0 @@
-Alloggio: Keneth
-	classificazione=5
-	location=MARE
-	prezzoPerNotte=132,49€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=377,89m

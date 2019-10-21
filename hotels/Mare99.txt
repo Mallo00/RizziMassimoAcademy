@@ -1,8 +1,0 @@
-Alloggio: Nicki
-	classificazione=1
-	location=MARE
-	prezzoPerNotte=64,04€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=848,38m

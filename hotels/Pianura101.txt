@@ -1,8 +1,0 @@
-Alloggio: Cassidy
-	classificazione=5
-	location=PIANURA
-	prezzoPerNotte=45,09€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=238,24m

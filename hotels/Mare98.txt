@@ -1,8 +1,0 @@
-Alloggio: Jennell
-	classificazione=3
-	location=MARE
-	prezzoPerNotte=125,25€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=85,79m

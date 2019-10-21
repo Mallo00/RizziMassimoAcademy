@@ -1,8 +1,0 @@
-Alloggio: Vinnie
-	classificazione=3
-	location=PIANURA
-	prezzoPerNotte=92,03€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=124,76m

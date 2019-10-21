@@ -1,8 +1,0 @@
-Alloggio: Soraya
-	classificazione=2
-	location=PIANURA
-	prezzoPerNotte=164,47€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=879,69m

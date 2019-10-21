@@ -1,8 +1,0 @@
-Alloggio: Lakia
-	classificazione=4
-	location=LAGO
-	prezzoPerNotte=156,48€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=307,61m

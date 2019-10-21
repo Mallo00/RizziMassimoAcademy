@@ -1,8 +1,0 @@
-Alloggio: Bree
-	classificazione=2
-	location=MONTAGNA
-	prezzoPerNotte=72,42€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=222,89m

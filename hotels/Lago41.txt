@@ -1,8 +1,0 @@
-Alloggio: Trena
-	classificazione=4
-	location=LAGO
-	prezzoPerNotte=51,73€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=845,24m

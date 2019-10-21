@@ -1,8 +1,0 @@
-Alloggio: Piper
-	classificazione=3
-	location=LAGO
-	prezzoPerNotte=116,82€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=607,19m

@@ -1,8 +1,0 @@
-Alloggio: Devorah
-	classificazione=4
-	location=MONTAGNA
-	prezzoPerNotte=193,48€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=736,28m

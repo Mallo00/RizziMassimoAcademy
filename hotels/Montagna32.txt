@@ -1,8 +1,0 @@
-Alloggio: Alla
-	classificazione=1
-	location=MONTAGNA
-	prezzoPerNotte=189,95€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=572,44m

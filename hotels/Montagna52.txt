@@ -1,8 +1,0 @@
-Alloggio: Shawnee
-	classificazione=1
-	location=MONTAGNA
-	prezzoPerNotte=93,81€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=532,82m

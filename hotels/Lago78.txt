@@ -1,8 +1,0 @@
-Alloggio: Jed
-	classificazione=3
-	location=LAGO
-	prezzoPerNotte=85,51€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=608,16m

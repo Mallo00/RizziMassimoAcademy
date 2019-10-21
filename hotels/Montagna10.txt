@@ -1,8 +1,0 @@
-Alloggio: Ilda
-	classificazione=3
-	location=MONTAGNA
-	prezzoPerNotte=76,69€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=154,3m

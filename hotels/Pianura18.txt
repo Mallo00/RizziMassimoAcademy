@@ -1,8 +1,0 @@
-Alloggio: Miriam
-	classificazione=3
-	location=PIANURA
-	prezzoPerNotte=164,69€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=928,02m

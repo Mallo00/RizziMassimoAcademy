@@ -1,8 +1,0 @@
-Alloggio: Natalia
-	classificazione=5
-	location=LAGO
-	prezzoPerNotte=40,61€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=620,72m

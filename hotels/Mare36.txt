@@ -1,8 +1,0 @@
-Alloggio: Tisa
-	classificazione=1
-	location=MARE
-	prezzoPerNotte=122,94€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=493,4m

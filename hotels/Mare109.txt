@@ -1,8 +1,0 @@
-Alloggio: Lucilla
-	classificazione=4
-	location=MARE
-	prezzoPerNotte=41,84€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=327,31m

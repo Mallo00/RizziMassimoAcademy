@@ -1,8 +1,0 @@
-Alloggio: Ashanti
-	classificazione=5
-	location=LAGO
-	prezzoPerNotte=146,34€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=537,17m

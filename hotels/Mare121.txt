@@ -1,8 +1,0 @@
-Alloggio: Georgianna
-	classificazione=1
-	location=MARE
-	prezzoPerNotte=195,33€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=820,6m

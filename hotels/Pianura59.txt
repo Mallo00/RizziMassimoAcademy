@@ -1,8 +1,0 @@
-Alloggio: Lucilla
-	classificazione=1
-	location=PIANURA
-	prezzoPerNotte=128,99€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=853,38m

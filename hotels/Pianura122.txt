@@ -1,8 +1,0 @@
-Alloggio: Wilson
-	classificazione=3
-	location=PIANURA
-	prezzoPerNotte=90,76€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=602,94m

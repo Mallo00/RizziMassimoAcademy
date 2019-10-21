@@ -1,8 +1,0 @@
-Alloggio: Maryln
-	classificazione=3
-	location=MARE
-	prezzoPerNotte=58,89€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=170,02m

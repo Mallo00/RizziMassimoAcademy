@@ -1,8 +1,0 @@
-Alloggio: Wilson
-	classificazione=3
-	location=MONTAGNA
-	prezzoPerNotte=187,15€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=202,83m

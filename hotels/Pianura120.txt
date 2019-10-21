@@ -1,8 +1,0 @@
-Alloggio: Johna
-	classificazione=5
-	location=PIANURA
-	prezzoPerNotte=165,54€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=600,84m

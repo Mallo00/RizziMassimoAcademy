@@ -1,8 +1,0 @@
-Alloggio: Devorah
-	classificazione=2
-	location=MARE
-	prezzoPerNotte=116,96€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=78,07m

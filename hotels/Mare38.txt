@@ -1,8 +1,0 @@
-Alloggio: Lewis
-	classificazione=1
-	location=MARE
-	prezzoPerNotte=44,8€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=644,39m

@@ -1,8 +1,0 @@
-Alloggio: Edelmira
-	classificazione=3
-	location=MONTAGNA
-	prezzoPerNotte=103,48€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=882,32m

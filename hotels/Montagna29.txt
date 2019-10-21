@@ -1,8 +1,0 @@
-Alloggio: Mavis
-	classificazione=1
-	location=MONTAGNA
-	prezzoPerNotte=104,39€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=244,98m

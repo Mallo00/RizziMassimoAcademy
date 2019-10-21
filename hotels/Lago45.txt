@@ -1,8 +1,0 @@
-Alloggio: Joline
-	classificazione=4
-	location=LAGO
-	prezzoPerNotte=88,2€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=486,86m

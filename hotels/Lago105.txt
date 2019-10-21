@@ -1,8 +1,0 @@
-Alloggio: Lorita
-	classificazione=4
-	location=LAGO
-	prezzoPerNotte=30,05€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=96,55m

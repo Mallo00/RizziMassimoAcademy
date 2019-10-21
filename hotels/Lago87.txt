@@ -1,8 +1,0 @@
-Alloggio: Madge
-	classificazione=4
-	location=LAGO
-	prezzoPerNotte=167,07€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=106,8m

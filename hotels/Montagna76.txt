@@ -1,8 +1,0 @@
-Alloggio: Chana
-	classificazione=5
-	location=MONTAGNA
-	prezzoPerNotte=132,15€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=508,54m

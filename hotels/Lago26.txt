@@ -1,8 +1,0 @@
-Alloggio: Humberto
-	classificazione=1
-	location=LAGO
-	prezzoPerNotte=51,26€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=932,07m

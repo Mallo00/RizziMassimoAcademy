@@ -1,8 +1,0 @@
-Alloggio: Tisa
-	classificazione=5
-	location=LAGO
-	prezzoPerNotte=64,47€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=11,36m

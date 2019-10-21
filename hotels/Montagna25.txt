@@ -1,8 +1,0 @@
-Alloggio: Farah
-	classificazione=3
-	location=MONTAGNA
-	prezzoPerNotte=129,52€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=625,33m

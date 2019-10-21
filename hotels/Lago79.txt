@@ -1,8 +1,0 @@
-Alloggio: Alexandra
-	classificazione=4
-	location=LAGO
-	prezzoPerNotte=52,69€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=287,78m

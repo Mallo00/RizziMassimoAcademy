@@ -1,9 +1,14 @@
 package it.nextre.academy.esercizi.cap15;
 
-import java.io.BufferedWriter;
+import it.nextre.academy.basi.html.HtmlBuilder;
+import it.nextre.academy.myUtil.MyFormatter;
+import org.apache.commons.csv.CSVFormat;
+import org.apache.commons.csv.CSVPrinter;
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.StringWriter;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
@@ -13,6 +18,7 @@ import java.util.stream.Collectors;
 public class AgenziaViaggi implements Filtratore {
     private String nome;
     private List<Alloggio> alloggi;
+    private static HtmlBuilder builder;
 
     public AgenziaViaggi(String nome) {
         this.nome = nome;
@@ -23,9 +29,6 @@ public class AgenziaViaggi implements Filtratore {
     public void dividiPerLocation() {
         //specifico il path di salvataggio
         Path destination = Paths.get(System.getenv("SystemDrive"), "Academy", "Corretti a casa", "pr090919", "hotels");
-        Path dst = Paths.get("C:\\Academy\\Corretti a casa\\pr090919\\hotels\\");
-
-
         List<Alloggio> alMare = alloggi.stream()
                 .filter(alloggio -> Alloggio.isLocated(alloggio, Location.MARE))
                 .collect(Collectors.toList());
@@ -44,11 +47,9 @@ public class AgenziaViaggi implements Filtratore {
         scrivi(inMontagna, destination, Location.MONTAGNA, "txt");
         scrivi(inPianura, destination, Location.PIANURA, "txt");
 
-
     }
 
     private void scrivi(List<Alloggio> lista, Path destination, Location l, String ext) {
-
         for (int i = 0; i < lista.size(); i++) {
             String tmpFileName = l.getValue() + i + "." + ext;
             System.out.println(tmpFileName);
@@ -71,10 +72,45 @@ public class AgenziaViaggi implements Filtratore {
                 .filter(alloggio -> Alloggio.isLocated(alloggio, Location.LAGO))
                 .collect(Collectors.toList());
         System.out.println(filtrati.size() + " alloggi corrispondono ai criteri");
-        Path dst = Paths.get("C:" + File.pathSeparator + "Academy  " + File.pathSeparator + "  Corretti a casa" + File.pathSeparator + "pr090919" + File.pathSeparator + "hotels");
-        scrivi(filtrati, dst, Location.PIANURA, "html");
+        Path dst = Paths.get(System.getenv("SystemDrive"), "Academy", "Corretti a casa", "pr090919", "hotels");
+       // scriviHTML(filtrati, dst, Location.PIANURA, "html");
+        scriviCSV(filtrati, dst);
+    }
 
+    private void scriviCSV(List<Alloggio> filtrati, Path dst) {
+        StringWriter sw = new StringWriter();
+        try (CSVPrinter printer = new CSVPrinter(sw, CSVFormat.DEFAULT.withHeader("Nome", "Location", "Classificazione", "Prezzo per notte", "Tipo Struttura", "Wifi incluso", "Parcheggio incluso", "Distanza"))) {
+            for (int i = 0; i < filtrati.size(); i++) {
+                printer.printRecord(filtrati.get(i).getNome(), filtrati.get(i).getLocation(), filtrati.get(i).getClassificazione(), MyFormatter.formattaDouble(filtrati.get(i).getPrezzoPerNotte()), filtrati.get(i).getTipoStrutura(), filtrati.get(i).isFreeWifi(), filtrati.get(i).isParcheggioIncluso(), MyFormatter.formattaDouble(filtrati.get(i).getDistanza()));
+                printer.flush();
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        try (FileWriter fw = new FileWriter("hotels.csv")) {
+            fw.write(sw.toString());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 
+    private void scriviHTML(List<Alloggio> filtrati, Path dst, Location pianura, String html) {
+        for (int i = 0; i < filtrati.size(); i++) {
+            builder = new HtmlBuilder(filtrati.get(i).getNome() + "(" + filtrati.get(i).getLocation() + ")");
+            builder.addH(2, "Nome:").addP(filtrati.get(i).getNome());
+            builder.addH(2, "Location:").addP(filtrati.get(i).getLocation().getValue());
+            builder.addH(2, "Prezzo per notte:").addP(MyFormatter.formattaDouble(filtrati.get(i).getPrezzoPerNotte()));
+            builder.addH(2, "Classificazione:").addP("" + filtrati.get(i).getClassificazione());
+            //builder.addH(2, "Classificazione:").addP(""+filtrati.get(i).getClassificazione());
+            String tmpFileName = filtrati.get(i).getNome() + "(" + filtrati.get(i).getLocation() + ")" + "." + "html";
+            Path tmpPath = dst.resolve(Paths.get(tmpFileName));
+            File file = new File(tmpPath.toUri());
+            try (FileWriter fw = new FileWriter(file)) {
+                fw.write(builder.getPage());
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
     }
 
 

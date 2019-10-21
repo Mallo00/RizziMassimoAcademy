@@ -1,8 +1,0 @@
-Alloggio: Eliz
-	classificazione=2
-	location=LAGO
-	prezzoPerNotte=44,52€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=43,07m

@@ -1,8 +1,0 @@
-Alloggio: Charis
-	classificazione=5
-	location=PIANURA
-	prezzoPerNotte=73,21€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=511,78m

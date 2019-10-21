@@ -1,8 +1,0 @@
-Alloggio: Charis
-	classificazione=2
-	location=LAGO
-	prezzoPerNotte=137,76€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=357,4m

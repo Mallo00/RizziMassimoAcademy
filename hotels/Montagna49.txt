@@ -1,8 +1,0 @@
-Alloggio: Luciano
-	classificazione=2
-	location=MONTAGNA
-	prezzoPerNotte=150,65€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=478m

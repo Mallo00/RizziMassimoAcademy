@@ -1,8 +1,0 @@
-Alloggio: Vanesa
-	classificazione=4
-	location=PIANURA
-	prezzoPerNotte=89,15€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=848,47m

@@ -1,8 +1,0 @@
-Alloggio: Leisha
-	classificazione=2
-	location=MONTAGNA
-	prezzoPerNotte=121,69€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=851,71m

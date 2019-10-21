@@ -1,8 +1,0 @@
-Alloggio: Mariela
-	classificazione=5
-	location=MARE
-	prezzoPerNotte=181,97€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=477,86m

@@ -1,8 +1,0 @@
-Alloggio: Alla
-	classificazione=5
-	location=PIANURA
-	prezzoPerNotte=180,6€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=28,78m

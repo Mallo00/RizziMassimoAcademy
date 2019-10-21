@@ -1,8 +1,0 @@
-Alloggio: Mariela
-	classificazione=1
-	location=PIANURA
-	prezzoPerNotte=41,59€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=980,02m

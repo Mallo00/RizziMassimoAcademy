@@ -1,8 +1,0 @@
-Alloggio: Nanette
-	classificazione=3
-	location=LAGO
-	prezzoPerNotte=38,41€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=454,42m

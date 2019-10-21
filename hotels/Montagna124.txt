@@ -1,8 +1,0 @@
-Alloggio: Luigi
-	classificazione=5
-	location=MONTAGNA
-	prezzoPerNotte=180,87€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=857,9m

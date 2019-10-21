@@ -1,8 +1,0 @@
-Alloggio: Tyler
-	classificazione=5
-	location=LAGO
-	prezzoPerNotte=128,14€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=654,06m

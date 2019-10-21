@@ -1,8 +1,0 @@
-Alloggio: Lynelle
-	classificazione=1
-	location=MONTAGNA
-	prezzoPerNotte=75,02€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=547,66m

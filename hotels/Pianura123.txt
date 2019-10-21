@@ -1,8 +1,0 @@
-Alloggio: Maryln
-	classificazione=3
-	location=PIANURA
-	prezzoPerNotte=59,95€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=982,56m

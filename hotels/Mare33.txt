@@ -1,8 +1,0 @@
-Alloggio: Edelmira
-	classificazione=4
-	location=MARE
-	prezzoPerNotte=177,93€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=622,41m

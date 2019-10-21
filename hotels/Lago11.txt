@@ -1,8 +1,0 @@
-Alloggio: Nola
-	classificazione=2
-	location=LAGO
-	prezzoPerNotte=91,29€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=291,86m

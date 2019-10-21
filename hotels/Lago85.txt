@@ -1,8 +1,0 @@
-Alloggio: Luciano
-	classificazione=4
-	location=LAGO
-	prezzoPerNotte=155,19€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=47,89m

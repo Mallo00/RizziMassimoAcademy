@@ -1,8 +1,0 @@
-Alloggio: Jose
-	classificazione=2
-	location=PIANURA
-	prezzoPerNotte=125,22€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=898,77m

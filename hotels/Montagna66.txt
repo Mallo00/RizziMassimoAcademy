@@ -1,8 +1,0 @@
-Alloggio: Loma
-	classificazione=4
-	location=MONTAGNA
-	prezzoPerNotte=124,29€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=593,89m

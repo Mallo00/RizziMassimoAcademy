@@ -1,8 +1,0 @@
-Alloggio: Tyler
-	classificazione=3
-	location=PIANURA
-	prezzoPerNotte=167,29€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=854,57m

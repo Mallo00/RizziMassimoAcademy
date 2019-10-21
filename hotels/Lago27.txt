@@ -1,8 +1,0 @@
-Alloggio: Annmarie
-	classificazione=3
-	location=LAGO
-	prezzoPerNotte=124,99€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=765,87m

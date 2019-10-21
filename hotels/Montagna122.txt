@@ -1,8 +1,0 @@
-Alloggio: Jed
-	classificazione=3
-	location=MONTAGNA
-	prezzoPerNotte=134,32€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=596,27m

@@ -1,8 +1,0 @@
-Alloggio: Rhona
-	classificazione=2
-	location=LAGO
-	prezzoPerNotte=36,48€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=238,04m

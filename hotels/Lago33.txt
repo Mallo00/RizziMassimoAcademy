@@ -1,8 +1,0 @@
-Alloggio: Chana
-	classificazione=3
-	location=LAGO
-	prezzoPerNotte=156,33€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=56,49m

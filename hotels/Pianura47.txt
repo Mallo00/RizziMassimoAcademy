@@ -1,8 +1,0 @@
-Alloggio: Alva
-	classificazione=4
-	location=PIANURA
-	prezzoPerNotte=105,14€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=249,64m

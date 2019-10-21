@@ -1,8 +1,0 @@
-Alloggio: Miriam
-	classificazione=3
-	location=MARE
-	prezzoPerNotte=57,58€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=314,6m

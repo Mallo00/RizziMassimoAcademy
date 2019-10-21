@@ -1,8 +1,0 @@
-Alloggio: Kristie
-	classificazione=3
-	location=LAGO
-	prezzoPerNotte=192,29€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=517,79m

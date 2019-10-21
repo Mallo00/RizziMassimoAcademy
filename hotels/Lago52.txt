@@ -1,8 +1,0 @@
-Alloggio: Collen
-	classificazione=2
-	location=LAGO
-	prezzoPerNotte=102,74€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=401,99m

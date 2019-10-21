@@ -1,8 +1,0 @@
-Alloggio: Milly
-	classificazione=4
-	location=MONTAGNA
-	prezzoPerNotte=30,99€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=208,82m

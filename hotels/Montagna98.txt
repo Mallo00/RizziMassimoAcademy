@@ -1,8 +1,0 @@
-Alloggio: Sudie
-	classificazione=2
-	location=MONTAGNA
-	prezzoPerNotte=151,42€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=731,44m

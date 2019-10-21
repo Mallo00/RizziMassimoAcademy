@@ -1,8 +1,0 @@
-Alloggio: Danielle
-	classificazione=4
-	location=MARE
-	prezzoPerNotte=87,65€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=994m

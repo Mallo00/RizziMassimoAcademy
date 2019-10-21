@@ -1,8 +1,0 @@
-Alloggio: Kristie
-	classificazione=4
-	location=PIANURA
-	prezzoPerNotte=197,24€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=191,45m

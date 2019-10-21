@@ -1,8 +1,0 @@
-Alloggio: Reuben
-	classificazione=1
-	location=MONTAGNA
-	prezzoPerNotte=118,62€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=535,12m

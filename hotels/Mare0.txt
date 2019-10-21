@@ -1,8 +1,0 @@
-Alloggio: Lucilla
-	classificazione=2
-	location=MARE
-	prezzoPerNotte=126,94€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=635,66m

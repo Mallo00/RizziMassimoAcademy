@@ -1,8 +1,0 @@
-Alloggio: Carter
-	classificazione=4
-	location=PIANURA
-	prezzoPerNotte=102,42€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=363,33m

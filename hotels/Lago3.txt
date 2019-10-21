@@ -1,8 +1,0 @@
-Alloggio: Carter
-	classificazione=4
-	location=LAGO
-	prezzoPerNotte=168,62€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=296,65m

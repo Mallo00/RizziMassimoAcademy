@@ -1,8 +1,0 @@
-Alloggio: Aide
-	classificazione=4
-	location=PIANURA
-	prezzoPerNotte=84,19€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=307,49m

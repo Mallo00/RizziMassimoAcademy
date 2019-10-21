@@ -1,8 +1,0 @@
-Alloggio: Eliz
-	classificazione=5
-	location=MARE
-	prezzoPerNotte=104,2€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=708,34m

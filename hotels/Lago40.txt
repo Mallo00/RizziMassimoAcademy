@@ -1,8 +1,0 @@
-Alloggio: Lewis
-	classificazione=3
-	location=LAGO
-	prezzoPerNotte=115,55€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=247,31m

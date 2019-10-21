@@ -1,8 +1,0 @@
-Alloggio: Naoma
-	classificazione=1
-	location=MARE
-	prezzoPerNotte=172,61€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=413,59m

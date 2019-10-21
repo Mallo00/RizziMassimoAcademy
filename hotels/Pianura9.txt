@@ -1,8 +1,0 @@
-Alloggio: Jada
-	classificazione=3
-	location=PIANURA
-	prezzoPerNotte=177,89€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=52,12m

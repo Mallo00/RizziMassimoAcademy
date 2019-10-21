@@ -1,8 +1,0 @@
-Alloggio: Jennell
-	classificazione=3
-	location=MONTAGNA
-	prezzoPerNotte=100,65€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=307,47m

@@ -1,8 +1,0 @@
-Alloggio: Lashawn
-	classificazione=2
-	location=MONTAGNA
-	prezzoPerNotte=170,92€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=131,85m

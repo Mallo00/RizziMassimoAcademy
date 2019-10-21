@@ -1,8 +1,0 @@
-Alloggio: Edwina
-	classificazione=2
-	location=LAGO
-	prezzoPerNotte=133,35€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=241,09m

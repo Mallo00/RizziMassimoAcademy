@@ -1,8 +1,0 @@
-Alloggio: Edelmira
-	classificazione=2
-	location=LAGO
-	prezzoPerNotte=188,97€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=201,25m

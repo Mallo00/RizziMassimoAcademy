@@ -1,8 +1,0 @@
-Alloggio: Ok
-	classificazione=3
-	location=MARE
-	prezzoPerNotte=131,8€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=974,11m

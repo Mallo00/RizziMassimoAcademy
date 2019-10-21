@@ -1,8 +1,0 @@
-Alloggio: Lashawn
-	classificazione=4
-	location=PIANURA
-	prezzoPerNotte=45,08€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=76,96m

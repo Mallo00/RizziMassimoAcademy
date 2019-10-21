@@ -1,8 +1,0 @@
-Alloggio: Laquita
-	classificazione=5
-	location=PIANURA
-	prezzoPerNotte=71,85€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=831,91m

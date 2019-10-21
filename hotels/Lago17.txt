@@ -1,8 +1,0 @@
-Alloggio: Malorie
-	classificazione=2
-	location=LAGO
-	prezzoPerNotte=37,72€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=534,44m

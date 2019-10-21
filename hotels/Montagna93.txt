@@ -1,8 +1,0 @@
-Alloggio: Edwina
-	classificazione=5
-	location=MONTAGNA
-	prezzoPerNotte=154,42€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=11,42m

@@ -1,8 +1,0 @@
-Alloggio: Stepanie
-	classificazione=3
-	location=MONTAGNA
-	prezzoPerNotte=118,91€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=854,91m

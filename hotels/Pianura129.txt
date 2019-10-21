@@ -1,8 +1,0 @@
-Alloggio: Luigi
-	classificazione=5
-	location=PIANURA
-	prezzoPerNotte=151,52€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=760,57m

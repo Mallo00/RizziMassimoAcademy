@@ -1,8 +1,0 @@
-Alloggio: Johna
-	classificazione=1
-	location=MONTAGNA
-	prezzoPerNotte=193,56€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=268,84m

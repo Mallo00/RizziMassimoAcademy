@@ -1,8 +1,0 @@
-Alloggio: Dixie
-	classificazione=3
-	location=MARE
-	prezzoPerNotte=191,72€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=615,52m

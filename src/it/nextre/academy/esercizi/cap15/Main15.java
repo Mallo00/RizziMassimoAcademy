@@ -8,12 +8,12 @@ public class Main15 {
         // filtro degli hotel e scrivere i risultati a file
         AgenziaViaggi a = new AgenziaViaggi("MalloneTravels");
         creaAlloggi(a);
-        //a.stampaAlloggi();
+        //effettua il filtraggio e crea i file
         a.filtraCPU();
-        a.dividiPerLocation();
+        //crea i file suddivisi per location
+        //a.dividiPerLocation();
 
     }
-
     private static void creaAlloggi(AgenziaViaggi a) {
         while (a.getAlloggi().size() < 500) {
             a.addAlloggio(DummyAlloggio.getAlloggioRandom());

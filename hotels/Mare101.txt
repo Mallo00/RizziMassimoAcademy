@@ -1,8 +1,0 @@
-Alloggio: Leia
-	classificazione=4
-	location=MARE
-	prezzoPerNotte=169,75€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=451,83m

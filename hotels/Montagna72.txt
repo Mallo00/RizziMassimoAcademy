@@ -1,8 +1,0 @@
-Alloggio: Isabelle
-	classificazione=5
-	location=MONTAGNA
-	prezzoPerNotte=138,67€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=851,57m

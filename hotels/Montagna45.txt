@@ -1,8 +1,0 @@
-Alloggio: Carter
-	classificazione=2
-	location=MONTAGNA
-	prezzoPerNotte=102,64€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=736,3m

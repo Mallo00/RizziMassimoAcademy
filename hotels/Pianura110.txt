@@ -1,8 +1,0 @@
-Alloggio: Collen
-	classificazione=3
-	location=PIANURA
-	prezzoPerNotte=194,97€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=814,51m

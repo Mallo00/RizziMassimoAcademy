@@ -1,8 +1,0 @@
-Alloggio: Jose
-	classificazione=1
-	location=MONTAGNA
-	prezzoPerNotte=139,11€
-	tipoStrutura=BaB
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=165,71m

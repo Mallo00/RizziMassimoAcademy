@@ -1,8 +1,0 @@
-Alloggio: Audra
-	classificazione=4
-	location=MONTAGNA
-	prezzoPerNotte=192€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=74,64m

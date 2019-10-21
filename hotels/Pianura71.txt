@@ -1,8 +1,0 @@
-Alloggio: Trudie
-	classificazione=3
-	location=PIANURA
-	prezzoPerNotte=76,31€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=498,62m

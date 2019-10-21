@@ -1,8 +1,0 @@
-Alloggio: Shawnee
-	classificazione=4
-	location=MARE
-	prezzoPerNotte=116,37€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=278,78m

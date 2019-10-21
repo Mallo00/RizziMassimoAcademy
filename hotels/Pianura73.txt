@@ -1,8 +1,0 @@
-Alloggio: Kesha
-	classificazione=2
-	location=PIANURA
-	prezzoPerNotte=54,48€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=663,15m

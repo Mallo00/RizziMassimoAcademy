@@ -1,8 +1,0 @@
-Alloggio: Joline
-	classificazione=4
-	location=PIANURA
-	prezzoPerNotte=182,01€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=366,29m

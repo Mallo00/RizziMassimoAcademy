@@ -1,8 +1,0 @@
-Alloggio: Shin
-	classificazione=4
-	location=LAGO
-	prezzoPerNotte=156,93€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=548,71m

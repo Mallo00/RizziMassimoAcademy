@@ -1,8 +1,0 @@
-Alloggio: Trudie
-	classificazione=1
-	location=LAGO
-	prezzoPerNotte=110,25€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=405,3m

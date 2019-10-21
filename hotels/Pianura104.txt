@@ -1,8 +1,0 @@
-Alloggio: Carlene
-	classificazione=4
-	location=PIANURA
-	prezzoPerNotte=158,02€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=683,77m

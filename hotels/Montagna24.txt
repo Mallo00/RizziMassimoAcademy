@@ -1,8 +1,0 @@
-Alloggio: Rhona
-	classificazione=1
-	location=MONTAGNA
-	prezzoPerNotte=198,74€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=320,1m

@@ -1,8 +1,0 @@
-Alloggio: Reynaldo
-	classificazione=5
-	location=PIANURA
-	prezzoPerNotte=80,3€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=294,07m

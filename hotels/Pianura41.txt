@@ -1,8 +1,0 @@
-Alloggio: Leia
-	classificazione=1
-	location=PIANURA
-	prezzoPerNotte=45,04€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=861,96m

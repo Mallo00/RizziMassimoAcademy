@@ -1,8 +1,0 @@
-Alloggio: Inell
-	classificazione=1
-	location=MARE
-	prezzoPerNotte=42,3€
-	tipoStrutura=BaB
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=202,54m

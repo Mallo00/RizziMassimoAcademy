@@ -1,8 +1,0 @@
-Alloggio: Lynelle
-	classificazione=3
-	location=LAGO
-	prezzoPerNotte=182,26€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=false
-	freeWifi=false
-	distanza=555,62m

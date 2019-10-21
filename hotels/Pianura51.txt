@@ -1,8 +1,0 @@
-Alloggio: Nola
-	classificazione=1
-	location=PIANURA
-	prezzoPerNotte=171,92€
-	tipoStrutura=APPARTAMENTO
-	parcheggioIncluso=false
-	freeWifi=true
-	distanza=795,01m

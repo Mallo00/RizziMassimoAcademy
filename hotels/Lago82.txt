@@ -1,8 +1,0 @@
-Alloggio: Rebbecca
-	classificazione=1
-	location=LAGO
-	prezzoPerNotte=123,89€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=true
-	distanza=299,23m

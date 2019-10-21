@@ -14,19 +14,16 @@ public class HtmlBuilder {
                 "    <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\n" +
                 "    <title>" + titolo + "</title>\n" +
                 "</head>\n" +
-                "<body>\n" +
-                "    \n" +
-                "</body>\n" +
-                "</html>";
+                "<body>\n";
     }
 
     public HtmlBuilder addP(String text) {
-        page += "<p>" + text + "<p>";
+        page += "<p>" + text + "</p>";
         return this;
     }
 
     public HtmlBuilder addH(int valore, String titolo) {
-        page += "<h" + valore + ">" + titolo + "<h" + valore + ">";
+        page += "<h" + valore + ">" + titolo + "</h" + valore + ">";
         return this;
     }
 

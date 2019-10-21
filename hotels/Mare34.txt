@@ -1,8 +1,0 @@
-Alloggio: Alva
-	classificazione=3
-	location=MARE
-	prezzoPerNotte=97,25€
-	tipoStrutura=HOTEL
-	parcheggioIncluso=true
-	freeWifi=false
-	distanza=764,28m
